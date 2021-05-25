@@ -16,7 +16,7 @@ permalink: "/our-mission/"
 
 <div class="row">
    <div class="small-4 columns">
-      <img src="http://placehold.it/300x160/6b6351/e1dcd7&amp;text=4+Columns">
+      <div style="background: #45B29D; height: 150px;"></div>
    </div>
    <div class="small-8 columns">
       <p>
@@ -42,6 +42,6 @@ permalink: "/our-mission/"
       </p>
    </div>
    <div class="small-4 columns">
-      <img src="http://placehold.it/300x160/6b6351/e1dcd7&amp;text=4+Columns">
+      <div style="background: #45B29D; height: 170px;"></div>
    </div>
 </div>
