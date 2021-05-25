@@ -57,13 +57,13 @@ $topbar-dropdown-toggle-color: $white !default;
 $topbar-dropdown-toggle-alpha: 0.4 !default;
 
 $topbar-dropdown-label-color: $monsoon !default;
-$topbar-dropdown-label-text-transform: uppercase !default;
+$topbar-dropdown-label-text-transform: none !default;
 $topbar-dropdown-label-font-weight: $font-weight-bold !default;
 $topbar-dropdown-label-font-size: rem-calc(10) !default;
 $topbar-dropdown-label-bg: $oil !default;
 
 // Top menu icon styles
-$topbar-menu-link-transform: uppercase !default;
+$topbar-menu-link-transform: none !default;
 $topbar-menu-link-font-size: rem-calc(13) !default;
 $topbar-menu-link-weight: $font-weight-bold !default;
 $topbar-menu-link-color: $white !default;
@@ -223,7 +223,7 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
 
         a {
           color: $topbar-link-color;
-          text-transform: $topbar-menu-link-transform;
+          text-transform: none;
           font-size: $topbar-menu-link-font-size;
           font-weight: $topbar-menu-link-weight;
           position: relative;
@@ -322,7 +322,7 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
           font-family: $topbar-link-font-family;
           font-size: $topbar-link-font-size;
           font-weight: $topbar-link-weight;
-          text-transform: $topbar-link-text-transform;
+          text-transform: none;
 
           &.button {
             font-size: $topbar-link-font-size;
@@ -414,7 +414,9 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
 
           a {
             font-weight: $topbar-dropdown-link-weight;
-            padding: 8px $topbar-link-padding;
+            padding: 2px $topbar-link-padding;
+            margin-bottom: -5px;
+            margin-top: -5px;
             &.parent-link {
               font-weight: $topbar-link-weight;
             }
@@ -437,9 +439,9 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
         }
 
         label {
-          padding: 8px $topbar-link-padding 2px;
+          padding: 2px $topbar-link-padding 2px;
           margin-bottom: 0;
-          text-transform: $topbar-dropdown-label-text-transform;
+          text-transform: none;
           color: $topbar-dropdown-label-color;
           font-weight: $topbar-dropdown-label-font-weight;
           font-size: $topbar-dropdown-label-font-size;

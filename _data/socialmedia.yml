@@ -1,27 +1,27 @@
 - name: GitHub
-  url: http://github.com/phlow
+  url: http://github.com/ablecloud-team
   class: icon-github
-  title: Code und mehr...
+  title: ABLECLOUD GitHub
 
 - name: YouTube
-  url: http://www.youtube.com/PhlowMedia
+  url: http://www.youtube.com/ablecloud
   class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+  title: "Youtube에서 에이블클라우드를 만날 수 있습니다."
+
+- name: Facebook
+  url: http://facebook.com/ablecloud
+  class: icon-facebook
+  title: "Facebook 피드를 확인하세요."
+
+- name: TestDrive
+  url: https://mold.ablecloud.io
+  class: icon-cloud
+  title: "지금 바로 ABLESTACK을 사용해 보세요."
 
 - name: Twitter
-  url: http://twitter.com/phlow
+  url: http://twitter.com/ablecloud
   class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
-
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
-
-- name: Phlow YouTube Google+
-  url: https://plus.google.com/u/0/+Phlow
-  class: icon-googleplus
-  title: "YouTube Google+"
+  title: "Twitter 피드를 확인하세요."
 
 # - name: Facebook
 #   url: http://www.facebook.com/

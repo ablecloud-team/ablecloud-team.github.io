@@ -17,7 +17,7 @@ slogan: 'All about Data & Cloud'
 description: '에이블클라우드는 하이퍼컨버지드 기술을 이용해 기업에 클라우드 환경을 제공하고, 기업이 직접 관리하고, 운영하는 새로운 형태의 클라우드 데이터센터 모델을 제시하는 클라우드 전문가 기업입니다.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Copyright &hearts; by <a href="https://ablecloud-team.github.io/">ABLECLOUD</a> with <a href="https://ablestor.com/" target="_blank">Ablestor</a>, since 2021</p>'
 
 # Main author of the website
 # See > authors.yml
@@ -30,7 +30,7 @@ baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
+improve_content: https://github.com/ablecloud-team/ablecloud-team.github.io/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -38,7 +38,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://phlow.github.io/feeling-responsive/images/'
+urlimg: 'https://ablecloud-team.github.io/images/'
 
 
 # Logo size is 600x80 pixels
