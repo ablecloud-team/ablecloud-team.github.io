@@ -7,11 +7,11 @@
   side: left
 
 - title: "ABLESTACK"
-  url: "/design/"
+  url: "/ablestack/"
   side: left
   dropdown:
   - title: "<u>핵심 인프라</u>"
-    url: "/design/grid/"
+    url: "/ablestack/#core-infra"
   - title: "&nbsp;&nbsp;&nbsp;&nbsp;Glue - 분산스토리지"
     url: "/design/typography/typography/"
   - title: "&nbsp;&nbsp;&nbsp;&nbsp;Cell - 가상화"
