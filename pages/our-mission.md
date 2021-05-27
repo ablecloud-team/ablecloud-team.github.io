@@ -20,7 +20,7 @@ permalink: "/our-mission/"
 <br/>
 <div class="row">
    <div class="small-4 columns">
-      <div style="background: #45B29D; height: 150px;"></div>
+      <img src="https://via.placeholder.com/300x150">
    </div>
    <div class="small-8 columns">
       <p>
@@ -50,7 +50,7 @@ permalink: "/our-mission/"
       </p>
    </div>
    <div class="small-4 columns">
-      <div style="background: #45B29D; height: 170px;"></div>
+      <img src="https://via.placeholder.com/300x170">
    </div>
 </div>
 
@@ -59,7 +59,7 @@ permalink: "/our-mission/"
 
 <div class="row">
    <div class="small-12 colums">
-      <div style="background: #45B29D; height: 300px;">빅데이터, 인공지능, 머신러닝, IoT 등을 나타내는 그림</div>
+      <img src="https://via.placeholder.com/1000x300">
    </div>
 </div>
 
@@ -84,17 +84,17 @@ permalink: "/our-mission/"
 <br/>
 <div class="row t30">
    <div class="medium-4 columns" style="text-align: center;">
-      <img src="{{ site.urlimg }}webdesign_screenshot_stilwandel.jpg" alt="">
+      <img src="https://via.placeholder.com/300x180">
       <p><b>멀티/하이브리드 클라우드</b></p>
       <p>다양한 하이퍼바이저를 하나의 클라우드 환경으로 관리할 수 있고, 프라이빗과 퍼블릭 클라우드를 함께 사용할 수 있으며 쿠버네테스 기반의 컨테이너 환경까지 모두 제공하는 단일 플랫폼을 제공합니다.</p>
    </div>
    <div class="medium-4 columns" style="text-align: center;">
-      <img src="{{ site.urlimg }}webdesign_screenshot_tarnkappe.jpg" alt="">
+      <img src="https://via.placeholder.com/300x180">
       <p><b>원클릭 단순성</b></p>
       <p>서버에 플랫폼을 설치하는 순간부터 애플리케이션을 실행하는 모든 과정이 원클릭으로 자동화되는 인프라, 더 이상 전문가의 직접적인 개입이 필요 없이 스스로 관리되는 데이터센터의 구축을 지향합니다.</p>
    </div>
    <div class="medium-4 columns" style="text-align: center;">
-      <img src="{{ site.urlimg }}webdesign_screenshot_schriefer.jpg" alt="">
+      <img src="https://via.placeholder.com/300x180">
       <p><b>애플리케이션 관리 자동화</b></p>
       <p>언제든 필요한 애플리케이션을 개발하고 테스트 할 수 있고 배포할 수 있으며, 라이프 사이클을 관리하고 자동화 합니다. 운영 상태에 따라 자동으로 확장하고, 사용량에 따라 능동적으로 대응하도록 지능화합니다.</p>
    </div>
@@ -103,12 +103,12 @@ permalink: "/our-mission/"
 <div class="row t60">
    <div class="medium-2 columns">&nbsp;</div>
    <div class="medium-4 columns b30" style="text-align: center;">
-      <img src="{{ site.urlimg }}webdesign_screenshot_nixdorf.jpg" alt="">
+      <img src="https://via.placeholder.com/300x180">
       <p><b>비용 절감</b></p>
       <p>엔터프라이즈 데이터센터 TCO를 최대한 줄이고, 퍼블릭 클라우드로의 지출을 최적화 하며, 애플리케이션 개발 기간을 단축합니다. 단일 플랫폼으로 관리 역량을 높이고, 더 안정적인 시스템으로 ROI를 높여 줍니다. </p>
    </div>
    <div class="medium-4 columns b30" style="text-align: center;">
-      <img src="{{ site.urlimg }}webdesign_screenshot_jcorneille.jpg" alt="">
+      <img src="https://via.placeholder.com/300x180">
       <p><b>선택의 자유 보장</b></p>
       <p>더 이상 특정 벤더의 서버나 네트워크 장비, 스토리지, 그리고 애플리케이션에 의존할 필요가 없어야 합니다. 상용서버라면 모두 동일한 플랫폼을 제공하고, 오픈소스를 통한 턴키 소프트웨어로 선택권을 보장합니다.</p>
    </div>
