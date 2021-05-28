@@ -6,16 +6,16 @@
   title: "에이블클라우드 대표홈페이지"
 
 - name: "에이블스토어"
-  url: "https://ablestore.com"
+  url: "https://ablestor.com"
   class: "services-newsletter"
   title: "영업기술지원 총판파트너"
 
 - name: "Mommoss"
-  url: "https://www.ablestor.com/solution/moss"
+  url: "https://moss.works"
   class: "rss-link"
   title: "전문가 커뮤니티 플랫폼"
 
-- name: "에이블스토어 샵"
+- name: "에이블샵"
   url: "https://www.ablestor.com/shop/view"
   class: "sitemap-link"
   title: "에이블스토어 온라인쇼핑몰"
