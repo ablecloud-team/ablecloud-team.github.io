@@ -37,6 +37,8 @@ ABLESTACK은 단지, 상용 x86 서버에 **ABLESTACK Cube OS**를 설치하여 
 
 ## 핵심 인프라     {#core-infra}
 
+<br/>
+
 ### Glue - 분산스토리지      {#glue}
 
 <br/>
@@ -111,6 +113,7 @@ ABLESTACK은 단지, 상용 x86 서버에 **ABLESTACK Cube OS**를 설치하여 
 </div>
 
 <br/>
+<br/>
 
 ### Cell - 가상화        {#cell}
 
@@ -173,6 +176,7 @@ ABLESTACK은 단지, 상용 x86 서버에 **ABLESTACK Cube OS**를 설치하여 
    </div>
 </div>
 
+<br/>
 <br/>
 
 ### Mold - 인프라 및 IT운영        {#mold}
@@ -244,6 +248,7 @@ ABLESTACK은 단지, 상용 x86 서버에 **ABLESTACK Cube OS**를 설치하여 
 </div>
 
 <br/>
+<br/>
 
 ### Koral - 쿠버네테스 클러스터     {#koral}
 
@@ -307,6 +312,8 @@ ABLESTACK은 단지, 상용 x86 서버에 **ABLESTACK Cube OS**를 설치하여 
 * * *
 
 ## IT운영 및 DevOps     {#it-ops}
+
+<br/>
 
 ### Wall - 인프라 및 App 모니터링      {#wall}
 
@@ -387,5 +394,198 @@ ABLESTACK은 단지, 상용 x86 서버에 **ABLESTACK Cube OS**를 설치하여 
 </div>
 
 <br/>
+<br/>
 
 ### Genie - 애플리케이션 관리      {#genie}
+
+<br/>
+<div class="row">
+   <div class="small-7 columns">
+      <p>
+         Genie는 개발형 하이브리드 클라우드 배포 자동화 플랫폼으로, ABLESTACK에 대한 자동화 뿐 아니라 퍼블릭/프라이빗 클라우드 환경에 대한 자동화 기능을 제공합니다. <br/>
+         <br/>
+         Genie는 범용 언어를 기반으로 수행되는 자동화 도구로, 어려운 작업을 반복적으로 수행할 수 있도록 미리 생성한 플레이북을 기반으로 에이전트 없이 버튼 하나만 누르면 전사적으로 가상머신, 컨테이너, 네트워크, 애플리케이션 등을 배포할 수 있습니다. 
+      </p>
+   </div>
+   <div class="small-5 columns">
+      <img src="https://via.placeholder.com/385x150">
+   </div>
+</div>
+
+
+<br/>
+<div class="row" style="text-align: center;">
+   <p>
+      <h3><i>Genie 애플리케이션 관리 기능과 이점</i></h3>
+   </p>
+</div>
+
+<br/>
+<div class="row t30">
+   <div class="small-3 columns" style="text-align: center;">
+      <img src="https://via.placeholder.com/220x145">
+   </div>
+   <div class="small-3 columns" style="text-align: left;">
+      <p style="font-size: 15px"><b>가독성 높은 자동화</b></p>
+      <p style="font-size: 14px">사람이 읽을 수 있는 YAML 언어와 파이썬을 이용해 자동화를 제공하는 엔진을 제공하여 가독성이 높고 조직에 쉽게 이식할 수 있습니다. </p>
+   </div>
+   <div class="small-3 columns" style="text-align: center;">
+      <img src="https://via.placeholder.com/220x145">
+   </div>
+   <div class="small-3 columns" style="text-align: left;">
+      <p style="font-size: 15px"><b>중앙 집중 제어</b></p>
+      <p style="font-size: 14px">통합 관리 플랫폼을 사용하여 시각적으로 자동화 대시보드 및 역할기반 엑세스 제어 등을 제공하여 IT인프라를 중앙 집중화하고 제어할 수 있습니다. </p>
+   </div>
+</div>
+
+<div class="row t30">
+   <div class="small-3 columns" style="text-align: left;">
+      <p style="font-size: 15px"><b>자동화 분석 보고</b></p>
+      <p style="font-size: 14px">인프라에서 실행되는 Genie Automation 현황을 확인하고, 모니터링하며, 이를 집계하고 사용자에게 보고합니다.</p>
+   </div>
+   <div class="small-3 columns" style="text-align: center;">
+      <img src="https://via.placeholder.com/220x145">
+   </div>
+   <div class="small-3 columns" style="text-align: left;">
+      <p style="font-size: 15px"><b>혁신 도구로서의 자동화</b></p>
+      <p style="font-size: 14px">조직 내에서 수행하는 작업을 자동화된 카탈로그화 하며, 업무 상황에 따라 커스터마이징하여 조직 IT업무를 공유하고 혁신할 수 있습니다. </p>
+   </div>
+   <div class="small-3 columns" style="text-align: center;">
+      <img src="https://via.placeholder.com/220x145">
+   </div>
+</div>
+
+
+<br/>
+<br/>
+
+### Station - Platform as a Service      {#station}
+
+<br/>
+<div class="row">
+   <div class="small-5 columns">
+      <img src="https://via.placeholder.com/385x150">
+   </div>
+   <div class="small-7 columns" style="padding: 35px 15px">
+      <p>
+         Station은 Kubernetes 기반의 PaaS로 Koral로 구성된 Kubernetes 클러스터에 클라우드 전략에 최적화된 풍부한 프로덕선 지원 플랫폼 서비스를 제공하여 클라우드 네이티브 컴퓨팅을 지원합니다.
+      </p>
+   </div>
+</div>
+
+<br/>
+복잡성을 제거하고 사용하기 쉬운 셀프 서비스 PaaS를 제공하며, Kubernetes 스토리지, 네트워킹 및 모니터링 등을 통해 가장 진보된 유형의 클라우드 네이티브 애플리케이션을 구축하고 실행할 수 있습니다. 또한 온프레미스 환경 뿐 아니라, Kubernetes를 지원하는 퍼블릭 클라우드에서 클러스터 및 애플리케이션을 배포하고 관리할 수 있습니다.
+
+<br/>
+<div class="row" style="text-align: center;">
+   <p>
+      <h3><i>Stations PaaS 기능과 이점</i></h3>
+   </p>
+</div>
+
+<br/>
+<div class="row t30">
+   <div class="small-3 columns" style="text-align: right;">
+      <p style="font-size: 15px"><b>CI/CD 지원</b></p>
+      <p style="font-size: 14px">단순한 스테이트풀 부터 복잡한 웹 기반 애플리케이션에 이르는 AI, 메시징, 모니터링, 서버리스 등의 애플리케이션의 신속한 개발 및 배포를 지원합니다. </p>
+   </div>
+      <div class="small-3 columns" style="text-align: center;">
+      <img src="https://via.placeholder.com/220x145">
+   </div>
+   <div class="small-3 columns" style="text-align: center;">
+      <img src="https://via.placeholder.com/220x145">
+   </div>
+   <div class="small-3 columns" style="text-align: left;">
+      <p style="font-size: 15px"><b>빠르고 안전한 배포</b></p>
+      <p style="font-size: 14px">개발자는 애플리케이션을 개발한 후 해당 애플리케이션을 SaaS 형태로 묶어 수명주기를 관리하고 모든 클라우드에 배포할 수 있는 이점을 얻게 됩니다. </p>
+   </div>
+</div>
+
+<div class="row t30">
+   <div class="small-3 columns" style="text-align: right;">
+      <p style="font-size: 15px"><b>하이브리드 클라우드 지원</b></p>
+      <p style="font-size: 14px">투명한 WAN 데이터 파이프라인과 데이터 인터페이스를 통해 클라우드 간 데이터 이동성 및 하이브리드 애플리케이션 관리를 제공합니다. </p>
+   </div>
+   <div class="small-3 columns" style="text-align: center;">
+      <img src="https://via.placeholder.com/220x145">
+   </div>
+   <div class="small-3 columns" style="text-align: center;">
+      <img src="https://via.placeholder.com/220x145">
+   </div>
+   <div class="small-3 columns" style="text-align: left;">
+      <p style="font-size: 15px"><b>자동화된 보안</b></p>
+      <p style="font-size: 14px">멀티 테넌시 및 역할 기반 액세스 제어를 통해 자동화된 시스템 관리 보안을 제공합니다. </p>
+   </div>
+</div>
+
+<br/><br/>
+* * *
+
+## 스토리지 및 데이터베이스     {#storage}
+
+<br/>
+
+### Volume - Block Storage      {#volume}
+
+<br/>
+<div class="row t30">
+   <div class="small-5 columns" style="background: #CBCBCB; text-align: center;">
+      <img src="https://via.placeholder.com/416x180">
+   </div>
+   <div class="small-7 columns" style="text-align: left;">
+      <p style="font-size: 15px"><b>Volume은 Glue에 내장된 확장형 블록 스토리지로, 가상머신의 워크로드 및 물리적인 워크로드에 모드 대응할 수 있도록 설계된 단일 통합 스토리지 플랫폼입니다. </b></p>
+      <p style="font-size: 14px">Glue Volume으로 다양한 블록 스토리지 기능과 이점을 누리십시오.</p>
+      <p>
+         <ul style="font-size: 14px">
+            <li>통합 관리 플랫폼을 통해 간단하게 사용할 수 있기 때문에 클릭 한번으로 가상머신에 필요한 볼륨을 프로비저닝 할 수 있습니다. </li>
+            <li>멀티패스 iSCSI를 지원하기 때문에 물리적인 서버에서도 고가용성을 지원하는 블록스토리지로 사용할 수 있습니다. </li>
+            <li>Linux, Windows 등 운영체제에 관계없이 동일한 인터페이스를 이용해 블록 스토리지를 사용할 수 있습니다. </li>
+            <li>Glue Volume은 내장된 공간 효율성 기능을 통해 데이터의 중복을 제거하고, 압축하며, 삭제코딩 적용 및 씬 프로비저닝이 자동으로 이루어집니다. </li>
+         </ul>
+      </p>
+   </div>
+</div>
+<br/>
+
+### Files - File System      {#file}
+
+<br/>
+<div class="row t30">
+   <div class="small-5 columns" style="background: #CBCBCB; text-align: center;">
+      <img src="https://via.placeholder.com/416x180">
+   </div>
+   <div class="small-7 columns" style="text-align: left;">
+      <p style="font-size: 15px"><b>Glue Files는 Glue에 내장된 표준 파일 시스템으로 데이터 중심의 IT 환경에서 간단하고 유연하며, 지능적인 파일 스토리지 서비스를 제공합니다. </b></p>
+      <p style="font-size: 14px">빅데이터 기반의 이머징 워크로드는 지속적으로 확장가능하고, 높은 성능을 보이는 파일 시스템을 필요로 합니다. 단순하며, 빠르고, 자동화된 파일시스템인 Glue Files를 이용해 빅데이터 기반의 워크로드에서 기능과 이점을 누리십시오.</p>
+      <p>
+         <ul style="font-size: 14px">
+            <li>Glue Files는 수십억개의 파일과 수만 개의 세션을 처리하도록 구축되어 있고, 다수의 파일 서버를 생성하여 다중처리할 수 있도록 설계되어 있어 높은 성능과 안정성을 제공합니다. </li>
+            <li>관리 화면을 통해 디렉토리별로 용량 제한 설정 등의 설정을 직접 관리할 수 있으며, 서버를 배포하고 삭제할 수 있습니다. </li>
+            <li>계층화, 삭제코딩 및 압축, 스냅샷 제공 등을 통해 기업이 엔터프라이즈 파일 스토리지 시스템에 기대하는 모든 기능을 제공합니다. </li>
+         </ul>
+      </p>
+   </div>
+</div>
+
+<br/>
+
+### Objects - Object Storage      {#object}
+
+<br/>
+<div class="row t30">
+   <div class="small-5 columns" style="background: #CBCBCB; text-align: center;">
+      <img src="https://via.placeholder.com/416x180">
+   </div>
+   <div class="small-7 columns" style="text-align: left;">
+      <p style="font-size: 15px"><b>Glue Objects는 간단하고 안전한 스케일 아웃 오브젝트 스토리지로 S3, Swift와 호환되기 때문에 기존의 오브젝트 스토리지 클라이언트로 빠르게 접속하고, 마이그레이션 할 수 있으며, 기업 내에서 빠르게 오브젝트 스토리지를 구성할 수 있습니다. </b></p>
+      <p style="font-size: 14px">테라 바이트에서 페타 바이트의 비정형 저장공간을 제공할 수 있는 Glue Objects의 기능과 이점을 누리십시오.</p>
+      <p>
+         <ul style="font-size: 14px">
+            <li>Glue Objects는 파일, 블록 및 가상머신 워크로드를 포함한 모든 유형의 워크로드를 위한 스토리지를 제공하도록 설계되어 있고, 빅 데이터 및 딥 러닝 워크로드에 필요한 S3 스토리지를 제공하기 때문에 높은 유연성을 제공합니다.</li>
+            <li>모든 객체에 WORM(Write Once Read Many) 정책을 활성화하여 데이터 보존 규정 준수를 위한 데이터 충실도와 불변성을 보장합니다. </li>
+            <li>객체에 태그를 지정하여 빠르게 객체를 식별합니다. 또한 객체의 복사본을 만들고 버전을 관리하여 실수로 덮어 쓰거나 삭제하지 않도록 보호합니다. </li>
+            <li>복잡한 디렉토리 구조를 추적하지 않고 S3, Swift 호환 인터페이스 및 REST API 제공을 통해 간단하게 사용할 수 있습니다. </li>
+         </ul>
+      </p>
+   </div>
+</div>
