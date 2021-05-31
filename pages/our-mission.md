@@ -20,7 +20,7 @@ permalink: "/our-mission/"
 <br/>
 <div class="row">
    <div class="small-4 columns">
-      <img src="https://via.placeholder.com/300x150">
+      <img src="../images/mision_1.jpg">
    </div>
    <div class="small-8 columns">
       <p>
@@ -50,7 +50,7 @@ permalink: "/our-mission/"
       </p>
    </div>
    <div class="small-4 columns">
-      <img src="https://via.placeholder.com/300x170">
+      <img src="../images/mision_2.jpg">
    </div>
 </div>
 
@@ -59,7 +59,7 @@ permalink: "/our-mission/"
 
 <div class="row">
    <div class="small-12 colums">
-      <img src="https://via.placeholder.com/1000x300">
+      <img src="../images/mision_3.jpg">
    </div>
 </div>
 
