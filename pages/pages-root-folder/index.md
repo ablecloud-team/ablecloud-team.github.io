@@ -21,7 +21,7 @@ widget3:
   title: "파트너"
   url: 'https://github.com/Phlow/feeling-responsive'
   image: https://via.placeholder.com/302x182
-  text: '<br/>우리는 ABLESTACK을 기반으로 고객에게 끊임없이 변화하는 IT 기술 환경에 적응할 수 있는 인프라를 제공하고, 자동화하며, 모니터링하기 위한 토탈 플랫폼을 제공합니다. 지금 바로 사용 가능하고, 빠르게 배포하며, 어떠한 워크로드에도 적용할 수 있는 ABLESTACK의 파트너로 함께 할 수 있습니다. 유연한 개방형 기술 플랫폼으로써 지속적으로 전문가 지원을 제공할 준비가 되다면 에이블클라우드와 함께 해주십시오.'
+  text: '<br/>우리는 ABLESTACK을 기반으로 고객에게 끊임없이 변화하는 IT 기술 환경에 적응할 수 있는 인프라를 제공하고, 자동화하며, 모니터링하기 위한 토탈 플랫폼을 제공합니다. 지금 바로 사용 가능하고, 빠르게 배포하며, 어떠한 워크로드에도 적용할 수 있는 ABLESTACK의 파트너로 함께 할 수 있습니다. 유연한 개방형 기술 플랫폼으로써 지속적으로 전문가 지원을 제공할 준비가 됬다면 에이블클라우드와 함께 해주십시오.'
 #
 # Use the call for action to show a button on the frontpage
 #

@@ -67,13 +67,8 @@
   - title: "엣지컴퓨팅"
     url: "/solution/#edge"
 - title: 파트너
-  url: "/documentation/"
+  url: "/partner/"
   side: left
-  dropdown:
-  - title: "판매/기술지원"
-  - title: "기술제휴"
-  - title: "시스템통합"
-  - title: "교육 및 컨설팅"
 
 - title: Blog
   url: "/blog/"
@@ -81,10 +76,6 @@
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
-
-- title: "Search"
-  url: "/search/"
-  side: right
 
 - title: "지원 및 서비스"
   url: "/contact/"
