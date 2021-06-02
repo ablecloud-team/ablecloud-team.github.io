@@ -14,7 +14,7 @@ widget1:
   text: '<br/>ABLESTACK은 기업의 데이터센터에 설치하여 엔터프라이즈 클라우드 환경을 구축하는 HCI 플랫폼으로 ABLECLOUD의 제품 전체를 상징합니다. 단 하나의 플랫폼으로 어떤 가상머신이든, 어떠한 앱이든, 어떠한 가상화/클라우드 환경이든 사용하고 관리할 수 있습니다. 상용 x86 서버에 10G Network에 연결하고 ABLESTACK을 설치하여 지금 바로 핵심 인프라를 포함하여 모든 애플리케이션을 시작하십시오.'
 widget2:
   title: "솔루션"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
+  url: 'https://www.ablecloud.io/solution/'
   text: '<br/>ABLESTACK을 활용하면 기업은 어떠한 애플리케이션이든 모두 단일 인프라를 이용해 실행할 수 있기 때문에 전총적인 사일로 인프라를 제고하고 새로운 형태의 기업 데이터센터를 운영할 수 있는 유연성과 확장성, 안정성을 제공합니다. 기업은 지금 바로 모든 IT인프라에 대해 단일 플랫폼으로 인프라를 단순화하고 민첩성을 높일 수 있습니다. ABLESTACK이 제공하는 클라우드 환경에서 다양한 솔루션을 만나 보십시오. '
   image: ../images/home_solution.jpg
 widget3:
@@ -33,7 +33,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
+  url: #
   text: 보다 더 자세한 자료와 컨설팅이 필요하십니까? ›
   style: alert
 permalink: /index.html
@@ -43,10 +43,3 @@ permalink: /index.html
 #
 homepage: true
 ---
-
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
