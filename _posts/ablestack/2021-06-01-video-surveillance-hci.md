@@ -6,7 +6,7 @@ teaser: "영상감시/분석 분야에서 ABLESTACK은 하이퍼컨버지드 인
 categories:
     - usecase
 header:
-   image_fullwidth: video-surveillance-hci-title.jpg
+   image_fullwidth: video-surveillance-hci-title.png
 
 image:
    thumb: gallery-example-1-thumb.jpg
