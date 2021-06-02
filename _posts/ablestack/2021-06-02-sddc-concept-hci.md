@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title:  "HCI : SDDC를 위한 최선의 선택"
 subheadline:  "ABLESTACK Concept"
-teaser: "<br/>영상감시/분석 분야에서 ABLESTACK은 하이퍼컨버지드 인프라로서의 이점을 이용해 캠퍼스, 공항, 도시와 같은 스마트하면서 안전한 환경을 위한 고화질 IP 비디오 감시시스템을 구성할 수 있도록 대량의 중요하고 민감한 데이터를 효과적으로 관리할 수 있는 환경을 제공할 수 있도록 다양한 기능을 포함하고 있습니다. "
+teaser: "<br/>ABLESTACK은 SDDC(Software Defined Data Center)를 기업에 구현하기 위한 최선의 시작입니다. SDDC의 필수적인 구성요소인 스토리지 가상화, 네트워트 가상화, 서버가상화를 비롯하여 단일화된 관리 플랫폼과 DevOps 환경, 그리고 풍부한 엔드유저 플랫폼을 제공하여, 빠르게 SDDC를 실현할 수 있도록 도와주며 빠르게 조직에 이식될 수 있습니다. "
 categories:
     - Concept
 tags:
@@ -18,4 +18,28 @@ image:
    homepage: sddc-concept-hci-title.png
 ---
 
-Test
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+  <div class="panel radius" markdown="1">
+  **Table of Contents**
+  {: #toc }
+  *  TOC
+  {:toc}
+  </div>
+</div><!-- /.medium-4.columns -->
+
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+
+### SDDC란 무엇인가?
+
+
+### SDDC 구성요소/아키텍처
+
+
+### SDDC의 이점과 문제점
+
+
+### 완벽한 SDDC의 구현 - ABLESTACK
+
+</div>
+</div>
