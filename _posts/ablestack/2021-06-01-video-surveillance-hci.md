@@ -4,7 +4,7 @@ title:  "영상감시/분석을 위한 HCI"
 subheadline:  "ABLESTACK Solution 및 Usecase"
 teaser: "<br/>영상감시/분석 분야에서 ABLESTACK은 하이퍼컨버지드 인프라로서의 이점을 이용해 캠퍼스, 공항, 도시와 같은 스마트하면서 안전한 환경을 위한 고화질 IP 비디오 감시시스템을 구성할 수 있도록 대량의 중요하고 민감한 데이터를 효과적으로 관리할 수 있는 환경을 제공할 수 있도록 다양한 기능을 포함하고 있습니다. "
 categories:
-    - ABLESTACK Usecase
+    - Usecase
 tags:
   - ablestack
   - surveillance
@@ -29,6 +29,8 @@ image:
 </div><!-- /.medium-4.columns -->
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
+### ABLESTACK의 주요 이점
+<br/>
 **HCI는 서버 및 스토리지, 네트워크, 관리시스템을 하나로 통합하여 제공하는 통합 인프라**로, 별도의 스토리지 사일로가 필요 없고, 상용 x86  서버 3대 이상을 이용해 서버 및 스토리지 환경을 제공하는 집약 제품으로 저렴한 라이선스, 상면 공간의 절약, 전력의 절약 등으로 전통적인 인프라에 비해 ***약 70~80%의 TCO 절감***을 제공하는 제품입니다. 
 
 ABLESTACK은 비디오 감시를 위한 다양한 이점을 보유하고 있으며 다음과 같습니다. 
