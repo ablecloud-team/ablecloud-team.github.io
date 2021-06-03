@@ -52,17 +52,17 @@ header:
 <br/>
 <div class="row t30">
    <div class="medium-4 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/300x180">
+      <img src="/images/solution-low-tco.png">
       <p style="font-size: 15px; padding: 10px 0"><b>낮은 TCO</b></p>
       <p style="font-size: 14px; padding: 0 40px">전통적인 인프라에 비해 70% 이상의 TCO 절감 효과 및 5배의 투자수익(ROI)을 제공합니다. </p>
    </div>
    <div class="medium-4 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/300x180">
+      <img src="/images/solution-auto-distribute.png">
       <p style="font-size: 15px; padding: 10px 0"><b>자동화된 배포</b></p>
       <p style="font-size: 14px; padding: 0 40px">자동화된 셀프 서비스를 통해 기존의 애플리케이션 개발 및 배포에 비해 훨씬 빨라집니다. </p>
    </div>
    <div class="medium-4 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/300x180">
+      <img src="images/solution-error-delete.png">
       <p style="font-size: 15px; padding: 10px 0"><b>높은 안정성</b></p>
       <p style="font-size: 14px; padding: 0 40px">고가용성 제공 및 단일실패지점 제거를 통해 전통적 인프라 대비 90% 이상 다운타임이 감소합니다.</p>
    </div>
@@ -71,12 +71,12 @@ header:
 <div class="row t60">
    <div class="medium-2 columns">&nbsp;</div>
    <div class="medium-4 columns b30" style="text-align: center;">
-      <img src="https://via.placeholder.com/300x180">
+      <img src="/images/solution-highquality-security.png">
       <p style="font-size: 15px; padding: 10px 0"><b>고수준의 보안환경</b></p>
       <p style="font-size: 14px; padding: 0 40px">네트워크 관리 및 보안그룹 설정 등의 마이크로세분화 지원으로 더 강한 보안 환경을 얻을 수 있습니다. </p>
    </div>
    <div class="medium-4 columns b30" style="text-align: center;">
-      <img src="https://via.placeholder.com/300x180">
+      <img src="/images/solution-expansion-capacity.png">
       <p style="font-size: 15px; padding: 10px 0"><b>선택적 확장성</b></p>
       <p style="font-size: 14px; padding: 0 40px">퍼브릭클라우드와 유사하게, 확장 시점을 쉽게 예측할 수 있고, 필요한 만큼 확장할 수 있습니다. </p>
    </div>
@@ -111,12 +111,12 @@ header:
    <div class="medium-4 columns b30" style="text-align: center;">
       <p style="font-size: 15px; padding: 10px 0"><b>단순한 관리환경</b></p>
       <p style="font-size: 14px; padding: 0 30px">모든 인프라를 단일 관리 환경에서 배포, 관리할 수 있기 때문에 베어메탈 빅데이터의 복잡한 환경에서 해방될 수 있습니다. </p>
-      <img src="https://via.placeholder.com/300x180">
+      <img src="/images/solution-bigdata-simple-management.png">
    </div>
    <div class="medium-4 columns b30" style="text-align: center;">
       <p style="font-size: 15px; padding: 10px 0"><b>운영 비용 절약</b></p>
       <p style="font-size: 14px; padding: 0 30px">단일 인프라 환경에서 빅데이터 및 앱을 통합관리 할 수 있기 때문에 더 적은 상면, 전력소모로 비용을 절약할 수 있습니다. </p>
-      <img src="https://via.placeholder.com/300x180">
+      <img src="/images/solution-bigdata-cost-saving.png">
    </div>
    <div class="medium-2 columns">&nbsp;</div>
 </div>
@@ -125,7 +125,7 @@ header:
    <div class="medium-4 columns" style="text-align: center;">
       <p style="font-size: 15px; padding: 10px 0"><b>높은 안정성</b></p>
       <p style="font-size: 14px; padding: 0 30px">내장된 데이터보호 및 재해복구, 자가치유, 고가용성 제공 등으로 빅데이터 워크로드를 실행 상태로 유지할 수 있습니다. </p>
-      <img src="https://via.placeholder.com/300x180">
+      <img src="/images/solution-bigdata-workload.png">
    </div>
    <div class="medium-4 columns" style="text-align: center;">
       <p style="font-size: 15px; padding: 10px 0"><b>고성능 IO 제공</b></p>
