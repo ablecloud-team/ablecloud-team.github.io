@@ -530,7 +530,7 @@ ABLESTACK은 단지, 상용 x86 서버에 **ABLESTACK Cube OS**를 설치하여 
 <br/>
 <div class="row t30">
    <div class="small-5 columns" style="background: #CBCBCB; text-align: center;">
-      <img src="https://via.placeholder.com/416x180">
+      <img src="/images/ablestack-volume.png">
    </div>
    <div class="small-7 columns" style="text-align: left;">
       <p style="font-size: 15px"><b>Volume은 Glue에 내장된 확장형 블록 스토리지로, 가상머신의 워크로드 및 물리적인 워크로드에 모드 대응할 수 있도록 설계된 단일 통합 스토리지 플랫폼입니다. </b></p>
@@ -614,7 +614,7 @@ ABLESTACK은 단지, 상용 x86 서버에 **ABLESTACK Cube OS**를 설치하여 
       </p>
    </div>
    <div class="small-5 columns" style="background: #CBCBCB; text-align: center;">
-      <img src="https://via.placeholder.com/416x180">
+      <img src="/images/ablestack-track.png">
    </div>
 </div>
 
@@ -639,7 +639,7 @@ ABLESTACK은 단지, 상용 x86 서버에 **ABLESTACK Cube OS**를 설치하여 
       </p>
    </div>
    <div class="small-5 columns" style="background: #CBCBCB; text-align: center;">
-      <img src="https://via.placeholder.com/416x180">
+      <img src="/images/ablestack-atom.png">
    </div>
 </div>
 
@@ -692,7 +692,7 @@ ABLESTACK은 단지, 상용 x86 서버에 **ABLESTACK Cube OS**를 설치하여 
       &nbsp;
    </div>
    <div class="small-8 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/666x375">
+      <img src="/images/ablestack-mommoss.png">
    </div>
    <div class="small-2 columns" style="text-align: center;">
       &nbsp;
