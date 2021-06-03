@@ -357,7 +357,7 @@ ABLESTACK은 단지, 상용 x86 서버에 **ABLESTACK Cube OS**를 설치하여 
 
 <br/>
 <div class="row t30">
-   <div class="small-5 columns" style="background: #CBCBCB; text-align: center;">
+   <div class="small-5 columns" style="text-align: center;">
       <img src="https://via.placeholder.com/416x180">
    </div>
    <div class="small-7 columns" style="text-align: left; padding: 30px 15px;">
@@ -370,12 +370,12 @@ ABLESTACK은 단지, 상용 x86 서버에 **ABLESTACK Cube OS**를 설치하여 
       <p style="font-size: 15px"><b>실시간 알람</b></p>
       <p style="font-size: 14px">데이터를 이용해 의미 있는 임계치에서 경고를 정의하고, 경로를 발송합니다. Mail, Slack, PagerDuty 등의 각종 협업도구와 연동하여 사용자가 원하는 매체로 경로를 제공하며, 문제가 해결되면 해결되었다는 경고와 함께 더이상 경고를 발송하지 않습니다.</p>
    </div>
-   <div class="small-5 columns" style="background: #CBCBCB; text-align: center;">
+   <div class="small-5 columns" style="text-align: center;">
       <img src="https://via.placeholder.com/416x180">
    </div>
 </div>
 <div class="row t30">
-   <div class="small-5 columns" style="background: #CBCBCB; text-align: center;">
+   <div class="small-5 columns" style="text-align: center;">
       <img src="https://via.placeholder.com/416x180">
    </div>
    <div class="small-7 columns" style="text-align: left; padding: 20px 15px;">
@@ -388,7 +388,7 @@ ABLESTACK은 단지, 상용 x86 서버에 **ABLESTACK Cube OS**를 설치하여 
       <p style="font-size: 15px"><b>애플리케이션/DB 모니터링</b></p>
       <p style="font-size: 14px">다양한 애플리케이션 및 데이터베이스에 대한 모니터링 템플릿, 대시보드 등을 제공하여 빠르게 원하는 애플리케이션 및 데이터베이스에 대한 모니터링 환경을 구성할 수 있습니다. </p>
    </div>
-   <div class="small-5 columns" style="background: #CBCBCB; text-align: center;">
+   <div class="small-5 columns" style="text-align: center;">
       <img src="https://via.placeholder.com/416x180">
    </div>
 </div>
@@ -529,7 +529,7 @@ ABLESTACK은 단지, 상용 x86 서버에 **ABLESTACK Cube OS**를 설치하여 
 
 <br/>
 <div class="row t30">
-   <div class="small-5 columns" style="background: #CBCBCB; text-align: center;">
+   <div class="small-5 columns" style="text-align: center;">
       <img src="/images/ablestack-volume.png">
    </div>
    <div class="small-7 columns" style="text-align: left;">
@@ -551,7 +551,7 @@ ABLESTACK은 단지, 상용 x86 서버에 **ABLESTACK Cube OS**를 설치하여 
 
 <br/>
 <div class="row t30">
-   <div class="small-5 columns" style="background: #CBCBCB; text-align: center;">
+   <div class="small-5 columns" style="text-align: center;">
       <img src="https://via.placeholder.com/416x180">
    </div>
    <div class="small-7 columns" style="text-align: left;">
@@ -573,7 +573,7 @@ ABLESTACK은 단지, 상용 x86 서버에 **ABLESTACK Cube OS**를 설치하여 
 
 <br/>
 <div class="row t30">
-   <div class="small-5 columns" style="background: #CBCBCB; text-align: center;">
+   <div class="small-5 columns" style="text-align: center;">
       <img src="https://via.placeholder.com/416x180">
    </div>
    <div class="small-7 columns" style="text-align: left;">
@@ -613,7 +613,7 @@ ABLESTACK은 단지, 상용 x86 서버에 **ABLESTACK Cube OS**를 설치하여 
          </ul>
       </p>
    </div>
-   <div class="small-5 columns" style="background: #CBCBCB; text-align: center;">
+   <div class="small-5 columns" style="text-align: center;">
       <img src="/images/ablestack-track.png">
    </div>
 </div>
@@ -638,7 +638,7 @@ ABLESTACK은 단지, 상용 x86 서버에 **ABLESTACK Cube OS**를 설치하여 
          </ul>
       </p>
    </div>
-   <div class="small-5 columns" style="background: #CBCBCB; text-align: center;">
+   <div class="small-5 columns" style="text-align: center;">
       <img src="/images/ablestack-atom.png">
    </div>
 </div>
