@@ -552,7 +552,7 @@ ABLESTACK은 단지, 상용 x86 서버에 **ABLESTACK Cube OS**를 설치하여 
 <br/>
 <div class="row t30">
    <div class="small-5 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/416x180">
+      <img src="/images/ablestack-files.png">
    </div>
    <div class="small-7 columns" style="text-align: left;">
       <p style="font-size: 15px"><b>Glue Files는 Glue에 내장된 표준 파일 시스템으로 데이터 중심의 IT 환경에서 간단하고 유연하며, 지능적인 파일 스토리지 서비스를 제공합니다. </b></p>
