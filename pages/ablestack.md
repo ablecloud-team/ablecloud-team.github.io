@@ -68,22 +68,22 @@ ABLESTACK은 단지, 상용 x86 서버에 **ABLESTACK Cube OS**를 설치하여 
 
 <div class="row t30">
    <div class="small-3 columns" style="text-align: center;">
-      <img src="../images/glue_icon_1.png">
+      <img src="/images/glue_icon_1.png">
       <p style="font-size: 15px"><b>로컬 데이터 IO</b></p>
       <p style="font-size: 14px">가상머신과 애플리케이션의 IO가 SSD 또는 PMEM으로 구성된 로컬디스크에서 이루어져 성능을 가속화 합니다.</p>
    </div>
    <div class="small-3 columns" style="text-align: center;">
-      <img src="../images/glue_icon_2.png">
+      <img src="/images/glue_icon_2.png">
       <p style="font-size: 15px"><b>QoS 제공</b></p>
       <p style="font-size: 14px">가상머신 및 애플리케이션별로 QoS를 제어할 수 있어 처리량이 보장되고, 앱별로 필요한 성능을 제공할 수 있습니다.</p>
    </div>
    <div class="small-3 columns" style="text-align: center;">
-      <img src="../images/glue_icon_3.png">
+      <img src="/images/glue_icon_3.png">
       <p style="font-size: 15px"><b>자가치유</b></p>
       <p style="font-size: 14px">스토리지를 구성하는 호스트 및 디스크 장애시에도 애플리케이션은 계속 서비스 되고, 데이터는 자동으로 복구됩니다.</p>
    </div>
    <div class="small-3 columns" style="text-align: center;">
-      <img src="../images/glue_icon_4.png">
+      <img src="/images/glue_icon_4.png">
       <p style="font-size: 15px"><b>장애 자동 식별</b></p>
       <p style="font-size: 14px">동적 데이터 선택 및 주기적 데이터 스크러빙을 통해 디스크 오류 및 비트 손상을 식별하고 손상 데이터를 보호합니다.</p>
    </div>
@@ -91,22 +91,22 @@ ABLESTACK은 단지, 상용 x86 서버에 **ABLESTACK Cube OS**를 설치하여 
 
 <div class="row t30">
    <div class="small-3 columns" style="text-align: center;">
-      <img src="../images/glue_icon_5.png">
+      <img src="/images/glue_icon_5.png">
       <p style="font-size: 15px"><b>저장용량 절약</b></p>
       <p style="font-size: 14px">데이터 중복제거 및 압축 기능을 적용하여 성능이나 복원력을 손해보지 않고 저장용량 활용도를 극대화 합니다. </p>
    </div>
    <div class="small-3 columns" style="text-align: center;">
-      <img src="../images/glue_icon_6.png">
+      <img src="/images/glue_icon_6.png">
       <p style="font-size: 15px"><b>저비용 고성능</b></p>
       <p style="font-size: 14px">저비용으로 고성능을 제공하도록 설계되어 있어 용량이나 자원을 낭비하지 않습니다.</p>
    </div>
    <div class="small-3 columns" style="text-align: center;">
-      <img src="../images/glue_icon_7.png">
+      <img src="/images/glue_icon_7.png">
       <p style="font-size: 15px"><b>내장된 백업 및 재해복구</b></p>
       <p style="font-size: 14px">내장된 기능을 통해 효율적인 스냅샷을 통해 백업 및 재해복구를 지원하여 사고 시에도 신속한 복구가 가능합니다.</p>
    </div>
    <div class="small-3 columns" style="text-align: center;">
-      <img src="../images/glue_icon_8.png">
+      <img src="/images/glue_icon_8.png">
       <p style="font-size: 15px"><b>운영 중 확장</b></p>
       <p style="font-size: 14px">호스트 또는 디스크를 시스템 운영 중에 추가하여 확장할 수 있어 언제든 필요한 만큼 자원을 추가할 수 있습니다.</p>
    </div>
@@ -144,14 +144,14 @@ ABLESTACK은 단지, 상용 x86 서버에 **ABLESTACK Cube OS**를 설치하여 
 <br/>
 <div class="row t30">
    <div class="small-3 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/220x145">
+      <img src="/images/cell-protected-profile.png">
    </div>
    <div class="small-3 columns" style="text-align: left;">
       <p style="font-size: 15px"><b>사용자 투명성</b></p>
       <p style="font-size: 14px">Mold 및 Glue에 완벽하게 통합되어 있기 때문에 사용자는 퍼블릭 클라우드와 같이 가상화 환경을 의식할 필요가 없습니다.</p>
    </div>
    <div class="small-3 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/220x145">
+      <img src="/images/cell-single-platform.png">
    </div>
    <div class="small-3 columns" style="text-align: left;">
       <p style="font-size: 15px"><b>단일 제어 플랫폼</b></p>
@@ -161,14 +161,14 @@ ABLESTACK은 단지, 상용 x86 서버에 **ABLESTACK Cube OS**를 설치하여 
 
 <div class="row t30">
    <div class="small-3 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/220x145">
+      <img src="/images/cell-optimal-function.png">
    </div>
    <div class="small-3 columns" style="text-align: left;">
       <p style="font-size: 15px"><b>최적의 성능과 기능</b></p>
       <p style="font-size: 14px">PCI Passthrough, NVIDIA GPU 등의 최신 기술 지원을 통해 이머징 워크로드에서 필요한 성능과 기능을 제공합니다. </p>
    </div>
    <div class="small-3 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/220x145">
+      <img src="/images/cell-network-security.png">
    </div>
    <div class="small-3 columns" style="text-align: left;">
       <p style="font-size: 15px"><b>네트워크 보안</b></p>
@@ -195,7 +195,7 @@ ABLESTACK은 단지, 상용 x86 서버에 **ABLESTACK Cube OS**를 설치하여 
       &nbsp;
    </div>
    <div class="small-8 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/666x375">
+      <img src="/images/mold_main_dashboard.png">
    </div>
    <div class="small-2 columns" style="text-align: center;">
       &nbsp;
@@ -226,24 +226,24 @@ ABLESTACK은 단지, 상용 x86 서버에 **ABLESTACK Cube OS**를 설치하여 
 
 <div class="row t30">
    <div class="small-4 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/333x187">
+      <img src="/images/mold_disk.png">
    </div>
    <div class="small-4 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/333x187">
+      <img src="/images/mold_event.png">
    </div>
    <div class="small-4 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/333x187">
+      <img src="/images/mold_host.png">
    </div>
 </div>
 <div class="row t30">
    <div class="small-4 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/333x187">
+      <img src="/images/mold_snapshot.png">
    </div>
    <div class="small-4 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/333x187">
+      <img src="/images/mold_user_account.png">
    </div>
    <div class="small-4 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/333x187">
+      <img src="/images/mold_vm.png">
    </div>
 </div>
 
@@ -276,14 +276,14 @@ ABLESTACK은 단지, 상용 x86 서버에 **ABLESTACK Cube OS**를 설치하여 
 <br/>
 <div class="row t30">
    <div class="small-3 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/220x145">
+      <img src="/images/koral-one-click.png">
    </div>
    <div class="small-3 columns" style="text-align: left;">
       <p style="font-size: 15px"><b>원클릭 단순성</b></p>
       <p style="font-size: 14px">단 한번의 클릭으로 고가용성 구조를 가진 쿠버네테스 클러스터를 배포하며, 수분 내에 쿠버네테스 클러스터를 사용하여 애플리케이션을 배포할 수 있습니다.</p>
    </div>
    <div class="small-3 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/220x145">
+      <img src="/images/koral-persistent.png">
    </div>
    <div class="small-3 columns" style="text-align: left;">
       <p style="font-size: 15px"><b>Persistent 스토리지 지원</b></p>
@@ -293,14 +293,14 @@ ABLESTACK은 단지, 상용 x86 서버에 **ABLESTACK Cube OS**를 설치하여 
 
 <div class="row t30">
    <div class="small-3 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/220x145">
+      <img src="/images/koral-online-extention.png">
    </div>
    <div class="small-3 columns" style="text-align: left;">
       <p style="font-size: 15px"><b>온라인 확장 및 자동 스케일링</b></p>
       <p style="font-size: 14px">클릭 한번으로 온라인 노드 추가를 통해 클러스터를 확장할 수 있으며, 오토스케일링을 지원하여 Worker 노드가 자동으로 확장됩니다. </p>
    </div>
    <div class="small-3 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/220x145">
+      <img src="/images/koral-high availability.png">
    </div>
    <div class="small-3 columns" style="text-align: left;">
       <p style="font-size: 15px"><b>고가용성 제공</b></p>
@@ -423,14 +423,14 @@ ABLESTACK은 단지, 상용 x86 서버에 **ABLESTACK Cube OS**를 설치하여 
 <br/>
 <div class="row t30">
    <div class="small-3 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/220x145">
+      <img src="/images/genie-readability-auto.png">
    </div>
    <div class="small-3 columns" style="text-align: left;">
       <p style="font-size: 15px"><b>가독성 높은 자동화</b></p>
       <p style="font-size: 14px">사람이 읽을 수 있는 YAML 언어와 파이썬을 이용해 자동화를 제공하는 엔진을 제공하여 가독성이 높고 조직에 쉽게 이식할 수 있습니다. </p>
    </div>
    <div class="small-3 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/220x145">
+      <img src="/images/genie-center-control.png">
    </div>
    <div class="small-3 columns" style="text-align: left;">
       <p style="font-size: 15px"><b>중앙 집중 제어</b></p>
@@ -444,14 +444,14 @@ ABLESTACK은 단지, 상용 x86 서버에 **ABLESTACK Cube OS**를 설치하여 
       <p style="font-size: 14px">인프라에서 실행되는 Genie Automation 현황을 확인하고, 모니터링하며, 이를 집계하고 사용자에게 보고합니다.</p>
    </div>
    <div class="small-3 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/220x145">
+      <img src="/images/genie-monitoring-report.png">
    </div>
    <div class="small-3 columns" style="text-align: left;">
       <p style="font-size: 15px"><b>혁신 도구로서의 자동화</b></p>
       <p style="font-size: 14px">조직 내에서 수행하는 작업을 자동화된 카탈로그화 하며, 업무 상황에 따라 커스터마이징하여 조직 IT업무를 공유하고 혁신할 수 있습니다. </p>
    </div>
    <div class="small-3 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/220x145">
+      <img src="/images/genie-innovation-auto.png">
    </div>
 </div>
 
@@ -490,10 +490,10 @@ ABLESTACK은 단지, 상용 x86 서버에 **ABLESTACK Cube OS**를 설치하여 
       <p style="font-size: 14px">단순한 스테이트풀 부터 복잡한 웹 기반 애플리케이션에 이르는 AI, 메시징, 모니터링, 서버리스 등의 애플리케이션의 신속한 개발 및 배포를 지원합니다. </p>
    </div>
       <div class="small-3 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/220x145">
+      <img src="/images/station-ci-cd.png">
    </div>
    <div class="small-3 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/220x145">
+      <img src="/images/station-fast-secure-deployment.png">
    </div>
    <div class="small-3 columns" style="text-align: left;">
       <p style="font-size: 15px"><b>빠르고 안전한 배포</b></p>
@@ -507,10 +507,10 @@ ABLESTACK은 단지, 상용 x86 서버에 **ABLESTACK Cube OS**를 설치하여 
       <p style="font-size: 14px">투명한 WAN 데이터 파이프라인과 데이터 인터페이스를 통해 클라우드 간 데이터 이동성 및 하이브리드 애플리케이션 관리를 제공합니다. </p>
    </div>
    <div class="small-3 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/220x145">
+      <img src="/images/station-hybrid-cloud.png">
    </div>
    <div class="small-3 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/220x145">
+      <img src="/images/station-automation-security.png">
    </div>
    <div class="small-3 columns" style="text-align: left;">
       <p style="font-size: 15px"><b>자동화된 보안</b></p>
