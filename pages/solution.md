@@ -153,7 +153,7 @@ header:
       </p>
    </div>
    <div class="small-5 columns">
-      <img src="/images/solution-suveillance.png">
+      <img src="/images/solution-surveillance.png">
    </div>
 </div>
 
@@ -168,7 +168,7 @@ header:
       <p style="font-size: 14px">내장되어 있는 데이터보호 및 페일오버 기술로 일부 서버 및 디스크의 장애에도 비디오 데이터, 애플리케이션 및 시스템을 계속 사용할 수 있습니다.</p>
    </div>
    <div class="small-3 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/220x145">
+      <img src="/images/solution-solution-surveillance-expansion.png">
    </div>
    <div class="small-3 columns" style="text-align: left;">
       <p style="font-size: 15px"><b>자유로운 확장</b></p>
@@ -178,7 +178,7 @@ header:
 
 <div class="row t30">
    <div class="small-3 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/220x145">
+      <img src="/images/solution-surveillance-management.png">
    </div>
    <div class="small-3 columns" style="text-align: left;">
       <p style="font-size: 15px"><b>단순화된 관리</b></p>
@@ -306,7 +306,7 @@ header:
 <br/>
 <div class="row">
    <div class="small-5 columns">
-      <img src="https://via.placeholder.com/385x250">
+      <img src="/images/solution-develop.png">
    </div>
    <div class="small-7 columns" style="padding: 20px 15px">
       <p>
