@@ -7,6 +7,7 @@ teaser: "<br/>ABLESTACK은 엔터프라이즈 클라우드 환경을 구축하�
 
 permalink: /ablestack/
 header:
+    title: ''
     image_fullwidth: "ablestack-allo-title-fullwidth.png"
 image:
     thumb: "unsplash_brooklyn-bridge-thumb.jpg"

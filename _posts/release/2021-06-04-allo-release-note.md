@@ -16,7 +16,7 @@ header:
    image_fullwidth: ablestack-allo-background.png
 
 image:
-   thumb: home_product.jpg
+   thumb: home_product_thumb.png
    homepage: ablestack-allo-background.png
 ---
 
