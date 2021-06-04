@@ -233,7 +233,7 @@ header:
       <p style="font-size: 14px">프로젝트를 빠르게 롤아웃하고 단순화된 배포 및 선형적인 확장을 통해 쉽게 인프라를 확장할 수 있습니다. </p>
    </div>
    <div class="small-3 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/220x145">
+      <img src="/images/solution-ai-flexible.png">
    </div>
 </div>
 
@@ -243,14 +243,14 @@ header:
       <p style="font-size: 14px">가상머신, 네트워킹 및 스토리지에 대한 종단간 가시성을 통해 문제가 발생하는 경우에도 빠르게 발생한 문제를 해결할 수 있습니다. </p>
    </div>
    <div class="small-3 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/220x145">
+      <img src="/images/solution-ai-monitoring.png">
    </div>
    <div class="small-3 columns" style="text-align: left;">
       <p style="font-size: 15px"><b>GPU 및 고성능 IO</b></p>
       <p style="font-size: 14px">인공지능 워크로드 요구사항을 처리할 수 있도록 고성능의 스토리지 제공, GPU 지원, 고대역의 네트워크를 제공합니다. </p>
    </div>
    <div class="small-3 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/220x145">
+      <img src="/images/solution-ai-gpu_io.png">
    </div>
 </div>
 
@@ -279,22 +279,22 @@ header:
    <div class="small-3 columns" style="text-align: center;">
       <p style="font-size: 15px"><b>멀티 하이퍼바이저 지원</b></p>
       <p style="font-size: 14px; padding: 0 20px">멀티 하이퍼바이저를 지원하여 어떠한 가상화 환경에서도 동일한 데스크톱 및 애플리케이션을 사용자에게 제공할 수 있습니다. </p>
-      <img src="https://via.placeholder.com/220x145">
+      <img src="/images/solution-enduser-computing-multi.png">
    </div>
    <div class="small-3 columns" style="text-align: center;">
       <p style="font-size: 15px"><b>유연하고 신속한 확장</b></p>
       <p style="font-size: 14px; padding: 0 20px">수백에서 수천에 이르는 최종 사용자로 언제든지 확장할 수 있고, 일관성 있는 사용자 경험과 원클릭 배포가 가능합니다. </p>
-      <img src="https://via.placeholder.com/220x145">
+      <img src="/images/solution-enduser-computing-scaling.png">
    </div>
    <div class="small-3 columns" style="text-align: center;">
       <p style="font-size: 15px"><b>비용 절감</b></p>
       <p style="font-size: 14px; padding: 0 30px">빠른 배포 속도 및 가상화 벤더 락인 없는 환경 제공으로 비용을 획기적으로 절감할 수 있습니다. </p>
-      <img src="https://via.placeholder.com/220x145">
+      <img src="/images/solution-enduser-computing-lowcost.png">
    </div>
    <div class="small-3 columns" style="text-align: center;">
       <p style="font-size: 15px"><b>데이터 보안</b></p>
       <p style="font-size: 14px; padding: 0 20px">최종사용자가 로컬 액세스 없이 가상데스크톱을 통해 회사 데이터에 액세스할 수 있어 사이버 위협 및 데이터 도난을 방지합니다. </p>
-      <img src="https://via.placeholder.com/220x145">
+      <img src="/images/solution-enduser-computing-security.png">
    </div>
 </div>
 
@@ -363,7 +363,7 @@ header:
       </p>
    </div>
    <div class="small-5 columns">
-      <img src="https://via.placeholder.com/385x250">
+      <img src="/images/solution-edge-computing.png">
    </div>
 </div>
 <br/>
