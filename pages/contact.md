@@ -17,7 +17,7 @@ permalink: "/contact/"
 <br/>
 <div class="row">
    <div class="small-5 columns">
-      <img src="https://via.placeholder.com/385x250">
+      <img src="/images/contact-online-support.png">
    </div>
    <div class="small-7 columns" style="padding: 20px 15px">
       <p>
