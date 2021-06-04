@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title:  "영상감시/분석을 위한 HCI"
-subheadline:  "ABLESTACK Solution 및 Usecase"
+subheadline:  "ABLESTACK Usecase"
 teaser: "<br/>영상감시/분석 분야에서 ABLESTACK은 하이퍼컨버지드 인프라로서의 이점을 이용해 캠퍼스, 공항, 도시와 같은 스마트하면서 안전한 환경을 위한 고화질 IP 비디오 감시시스템을 구성할 수 있도록 대량의 중요하고 민감한 데이터를 효과적으로 관리할 수 있는 환경을 제공할 수 있도록 다양한 기능을 포함하고 있습니다. "
 categories:
     - Usecase
@@ -258,3 +258,11 @@ ABLESTACK은 비디오 감시를 위한 다양한 이점을 보유하고 있으�
     </tr>
   </tbody>
 </table>
+
+<br/><br/>
+{% include next-previous-post-in-category %}
+
+<br/><br/>
+<h3>Usecase 카테고리의 다른 문서</h3>
+<br/>
+{% include list-posts entries='3' offset='0' category='Usecase' %}
