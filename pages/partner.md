@@ -32,7 +32,7 @@ header:
 <br/>
 <div class="row t30">
    <div class="medium-6 columns" style="text-align: center;">
-      <p><img src="/images/partner-si-part"></p>
+      <p><img src="/images/partner-si-part.png"></p>
       <p style="font-size: 16px;"><b>SI 파트너</b></p>
       <p style="font-size: 15px; padding: 0 40px">
         ABLESTACK을 포함한 전반적인 인프라와 소프트웨어를 고객사에 프로젝트 단위로 제공하는 파트너입니다. 공공 및 기업의 대규모 프로젝트를 수행하며, 이 때 필요한 인프라를 ABLESTACK으로 도입하는 것을 중점적으로 고려합니다. 구축이 완료된 후에도 지속적으로 고객에게 관리 서비스를 제공합니다. 

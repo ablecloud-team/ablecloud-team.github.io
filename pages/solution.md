@@ -168,7 +168,7 @@ header:
       <p style="font-size: 14px">내장되어 있는 데이터보호 및 페일오버 기술로 일부 서버 및 디스크의 장애에도 비디오 데이터, 애플리케이션 및 시스템을 계속 사용할 수 있습니다.</p>
    </div>
    <div class="small-3 columns" style="text-align: center;">
-      <img src="/images/solution-solution-surveillance-expansion.png">
+      <img src="/images/solution-surveillance-expansion.png">
    </div>
    <div class="small-3 columns" style="text-align: left;">
       <p style="font-size: 15px"><b>자유로운 확장</b></p>
@@ -185,7 +185,7 @@ header:
       <p style="font-size: 14px">서버와 스토리지가 비디오 관리, 액세스 제어, 분석 및 관련 애플리케이션을 실행하도록 설계된 단일 인프라로 가상화되어 단순한 관리가 가능해 집니다. </p>
    </div>
    <div class="small-3 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/220x145">
+      <img src="/images/solution-surveillance-workload.png">
    </div>
    <div class="small-3 columns" style="text-align: left;">
       <p style="font-size: 15px"><b>유연한 워크로드 지원</b></p>
@@ -226,7 +226,7 @@ header:
       <p style="font-size: 14px">효율적인 단일 플랫폼에서 다른 엔터프라이즈 애플리케이션과 함께 AI 워크로드를 통합하기 때문에 인프라가 단순해 집니다. </p>
    </div>
    <div class="small-3 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/220x145">
+      <img src="/images/solution-ai-single_platform.png">
    </div>
    <div class="small-3 columns" style="text-align: left;">
       <p style="font-size: 15px"><b>빠른 배포와 유연한 확장</b></p>
@@ -267,7 +267,7 @@ header:
       &nbsp;
    </div>
    <div class="small-8 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/666x375">
+      <img src="/images/solution-enduser-computing.png">
    </div>
    <div class="small-2 columns" style="text-align: center;">
       &nbsp;
