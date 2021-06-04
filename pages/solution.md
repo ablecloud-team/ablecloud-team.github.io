@@ -39,7 +39,7 @@ header:
       &nbsp;
    </div>
    <div class="small-8 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/666x375">
+      <img src="/images/solution-private-cloud.png">
    </div>
    <div class="small-2 columns" style="text-align: center;">
       &nbsp;
@@ -62,7 +62,7 @@ header:
       <p style="font-size: 14px; padding: 0 40px">자동화된 셀프 서비스를 통해 기존의 애플리케이션 개발 및 배포에 비해 훨씬 빨라집니다. </p>
    </div>
    <div class="medium-4 columns" style="text-align: center;">
-      <img src="images/solution-error-delete.png">
+      <img src="/images/solution-error-delete.png">
       <p style="font-size: 15px; padding: 10px 0"><b>높은 안정성</b></p>
       <p style="font-size: 14px; padding: 0 40px">고가용성 제공 및 단일실패지점 제거를 통해 전통적 인프라 대비 90% 이상 다운타임이 감소합니다.</p>
    </div>
@@ -94,7 +94,7 @@ header:
 <br/>
 <div class="row">
    <div class="small-5 columns">
-      <img src="https://via.placeholder.com/385x250">
+      <img src="/images/solution-bigdata.png">
    </div>
    <div class="small-7 columns" style="padding: 20px 15px">
       <p>
@@ -130,12 +130,12 @@ header:
    <div class="medium-4 columns" style="text-align: center;">
       <p style="font-size: 15px; padding: 10px 0"><b>고성능 IO 제공</b></p>
       <p style="font-size: 14px; padding: 0 30px">데이터로컬리티로 더 빠른 성능을 보장하고, 압축 및 중복제거로 더 적은 공간만으로도 3 티어 솔루션을 실행할 수 있습니다. </p>
-      <img src="https://via.placeholder.com/300x180">
+      <img src="/images/solution-bigdata-io.png">
    </div>
    <div class="medium-4 columns" style="text-align: center;">
       <p style="font-size: 15px; padding: 10px 0"><b>주문형 확장</b></p>
       <p style="font-size: 14px; padding: 0 30px">데이터 노드의 확장 및 용량 확보를 위한 빅데이터 인프라의 배포는 원클릭으로 가능하고 빠르게 확장할 수 있습니다. </p>
-      <img src="https://via.placeholder.com/300x180">
+      <img src="/images/solution-bigdata-expansion.png">
    </div>
 </div>
 
@@ -153,7 +153,7 @@ header:
       </p>
    </div>
    <div class="small-5 columns">
-      <img src="https://via.placeholder.com/385x250">
+      <img src="/images/solution-suveillance.png">
    </div>
 </div>
 
@@ -161,7 +161,7 @@ header:
 <br/>
 <div class="row t30">
    <div class="small-3 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/220x145">
+      <img src="/images/solution-surveillance-high_availability.png">
    </div>
    <div class="small-3 columns" style="text-align: left;">
       <p style="font-size: 15px"><b>내장된 고가용성</b></p>
