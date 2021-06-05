@@ -6,7 +6,7 @@ teaser: "<br/>우리는 소프트웨어 정의 기술과 오픈소스 기술을 
 header:
    title: ""
    #background-color: "#EFC94C;"
-   image_fullwidth: "our-mission-title.jpg"
+   image_fullwidth: "our-mission-title.jpeg"
 permalink: "/our-mission/"
 ---
 
