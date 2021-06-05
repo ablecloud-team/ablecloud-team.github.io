@@ -575,7 +575,7 @@ ABLESTACK은 단지, 상용 x86 서버에 **ABLESTACK Cube OS**를 설치하여 
 <br/>
 <div class="row t30">
    <div class="small-5 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/416x180">
+      <img src="/images/ablestack-objects.png">
    </div>
    <div class="small-7 columns" style="text-align: left;">
       <p style="font-size: 15px"><b>Glue Objects는 간단하고 안전한 스케일 아웃 오브젝트 스토리지로 S3, Swift와 호환되기 때문에 기존의 오브젝트 스토리지 클라이언트로 빠르게 접속하고, 마이그레이션 할 수 있으며, 기업 내에서 빠르게 오브젝트 스토리지를 구성할 수 있습니다. </b></p>
