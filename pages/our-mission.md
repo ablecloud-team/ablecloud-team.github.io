@@ -4,9 +4,9 @@ show_meta: false
 title: "에이블클라우드가 하는 일"
 teaser: "<br/>우리는 소프트웨어 정의 기술과 오픈소스 기술을 집약하여 만든 하이퍼 컨버지드 플랫폼인 ABLESTACK을 중심으로 기업이 자유롭게 인프라를 선택하고, 쉽고 빠르게 데이터센터를 구축하며 직접 관리하고, 빠르게 애플리케이션을 배포하고 사용할 수 있는 유연한 클라우드 플랫폼을 제공하기 위해 우리의 정열을 쏟습니다."
 header:
-   title: ABLECLOUD MISSION
-   background-color: "#EFC94C;"
-   image_fullwidth: "header_homepage_13.jpg"
+   title: ""
+   #background-color: "#EFC94C;"
+   image_fullwidth: "our-mission-title.jpg"
 permalink: "/our-mission/"
 ---
 

@@ -32,7 +32,7 @@ image:
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-### Codename : Allo
+### 릴리즈 프로젝트 코드명
 <br/>
 <div class="row">
    <div class="small-4 columns">
