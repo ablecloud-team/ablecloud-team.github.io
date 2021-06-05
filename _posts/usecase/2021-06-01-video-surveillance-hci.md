@@ -159,9 +159,9 @@ ABLESTACK은 비디오 감시를 위한 다양한 이점을 보유하고 있으�
 <table>
   <caption>PIVOT3와의 제품 비교표</caption>
   <colgroup>
-    <col span="1" style="width: 15%;">
-    <col span="1" style="width: 50%;">
-    <col span="1" style="width: 35%;">
+    <col span="1" style="width: 20%;">
+    <col span="1" style="width: 40%;">
+    <col span="1" style="width: 40%;">
   </colgroup>
   <thead>
     <tr>
