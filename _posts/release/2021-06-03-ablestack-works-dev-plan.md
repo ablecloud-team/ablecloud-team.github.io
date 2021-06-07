@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title:  "ABLESTACK Works 개발 계획"
 subheadline:  "제품 및 기능 릴리즈"
-teaser: "<br/>ABLESTACK은 HCI를 기반으로 조직의 사용자에게 가상의 데스크톱 서비스를 제공할 수 있도록 Mold를 통해 관련 구성요소를 자동으로 배포하고, 가상 데스크톱 관리자가 직접 가상머신을 생성, 사용자에게 할당할 수 있도록 하는 기능을 가진 Works를 2021년 9월 중으로 개발 완료할 예정입니다."
+teaser: "<br/>ABLESTACK은 HCI를 기반으로 조직의 사용자에게 가상의 데스크톱 서비스를 제공할 수 있도록 Mold를 통해 관련 구성요소를 자동으로 배포하고, 가상 데스크톱 관리자가 직접 가상머신을 생성, 사용자에게 할당할 수 있도록 하는 기능을 가진 Works를 2021년 9월 중으로 개발 완료하여 릴리즈할 예정입니다."
 
 categories:
     - Release
@@ -32,138 +32,113 @@ image:
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-### 릴리즈 프로젝트 코드명
+### 제품 개발 배경
 <br/>
 <div class="row">
-   <div class="small-4 columns">
-      <img src="/images/allosaurus-img.jpeg">
-   </div>
-   <div class="small-8 columns">
+   <div class="medium-12 columns">
       <p>
-        ABLESTACK은 소프트웨어 정의 클라우드 데이터센터를 구축하기 위한 최적의 솔루션으로써의 미션을 달성하고, HCI 시장의 공룡이 되겠다는 다짐을 담아 버전 코드명을 공룡의 이름으로 정하기로 결정했습니다. 영어로 된 공룡의 이름 중 Saurus를 뺀 나머지 이름을 코드명으로 합니다. 
+        가상화 환경을 기업에 도입한 후 최종 사용자에게 제공할 수 있는 서비스에 대한 고민이 생기게 됩니다. 이러한 고민의 가장 빠른 해결 방법은 바로 최종 사용자 컴퓨팅입니다. 최종 사용자 컴퓨팅은 Virtual Desktop 또는 Virtual Workspace라는 용어로 표현되기도 합니다. 
+      </p>
+      <p>
+        또한 최근 코로나19로 인해 비대면 업무 환경에 대한 관심이 높아지고, 실제 재택근무 환경을 도입하는 기업이 늘고 있습니다. 이러한 흐름에서 빠르게 비대면 또는 재택근무 환경을 도입하면서, 안전하게 기업의 데이터를 보호할 수 있는 환경으로 최종 사용자 컴퓨팅이 주목 받고 있습니다. 
+      </p>
+  </div>
+</div>
+
+</div>
+</div>
+
+<div class="row">
+   <div class="medium-12 columns">
+      <p>
+        우리는 이러한 인프라 환경의 흐름, 최종 사용자의 요구 등을 반영할 수 있도록 하기 위해 원클릭으로 최소화된 자원 만으로 최종 사용자 컴퓨팅을 제공할 수 있는 기능인 Works를 개발하기로 결정하였습니다. 
       </p>
    </div>
 </div>
 <br/>
 
-</div>
-</div>
 
-릴리즈 프로젝트는 공룡 이름의 앞 단어를 이용하여 이름을 붙이되, 육식, 초식을 번갈아가며 사용합니다. 2021년 하반기부터 2022년 상반기까지의 프로젝트 계획 및 주요 마일스톤은 다음과 같습니다. 
+### Works 주요 특징
+<br/>
+ABLESTACK Works는 다음과 같은 특징을 가집니다.
 
 <div class="row">
-  <div class="medium-12 column" style="padding:0 30px;">
+  <div class="medium-4 column" style="padding:40px 15px">
+    <img src="/images/last-mile-delivery-cost-main.png">
+  </div>
+  <div class="medium-8 column">
     <p>
       <ul>
-        <li>Bronto(브론토) : 버전 2.0, 2021년 09월 30일 완료 예정</li>
-        <li>Cerato(케라토) : 버전 3.0, 2022년 01월 31일 완료 예정</li>
-        <li>Diplo(디플로) : 버전 4.0, 2022년 05월 31일 완료 예정</li>
+        <li><b>다양한 하이퍼바이저 지원</b> : ABLESTACK 뿐 아니라 KVM, VMWare, Citrix Hypervisor 등의 지원</li>
+        <li><b>최소 자원 구성</b> : 워크스페이스를 제공할 때 Windows License를 최소화 합니다. Active Directory 서버 등을 오픈소스로 구성하여 필수 자원을 줄입니다.</li>
+        <li><b>원클릭 배포</b> : 구성요소를 자동으로 프로비저닝하여 구성을 단순화 합니다. 게이트웨이, 워크스페이스 관리, Active Directory, 포털 등을 별도로 설치할 필요가 없습니다.</li>
+        <li><b>Clientless 접속</b> : 전용 클라이언트 없이 바로 업무 환경에 접속할 수 있도록 합니다. 웹 브라우저를 이용해 모든 워크스페이스에 접속 가능합니다.</li>
+        <li><b>Desktop 및 App 가상화 지원</b> : 사용자에게 데스크탑 뿐만 아니라 특정한 앱만 사용 가능하도록 자원을 유연하게 할당할 수 있습니다. </li>
+        <li><b>다양한 Guest OS 지원</b> : Windows 뿐 아니라 리눅스, 국산 OS 등을 모두 지원합니다.</li>
       </ul>
     </p>
   </div>
 </div>
 
-
-우리는 ABLESTACK을 통해 기업이 HCI를 기반으로 하는 소프트웨어 정의 데이터센터를 구성하고, 셀프서비스를 통한 프라이빗 클라우드의 편리함을 체험하고, 효율적인 기업 데이터센터 관리가 가능한 환경이 되길 소망합니다. 
-
-그러한 제품이 되기 위해서 각각의 프로젝트는 인프라 관리자가 편리하게 가상머신 및 애플리케이션을 배포하고, 이를 관리하며, 최종 사용자가 클라우드 환경이 주는 이점을 직접 느낄 수 있도록 하기 위한 다양한 자동화 기능 및 플랫폼, 엔드유저 소프트웨어 등을 모두 제공할 수 있도록 추진됩니다.  
-
 <br/>
 
-### Bronto(v2.0)-2021.09.30
+### Works 아키텍처
 <br/>
-ABLESTACK의 두번째 버전은 **실시간 모니터링 및 알림 제공, 최종사용자 컴퓨팅 제공**을 목표로 2021년 09월 30일까지 진행되고, 릴리즈는 10월 중에 이루어집니다. 
-
-프로젝트의 주요 내용은 다음과 같습니다. 
+ABLESTACK Works의 사용자 및 소프트웨어 구성요소 간의 아키텍처는 다음과 같습니다 
 
 <div class="row">
-  <div class="medium-12 column" style="padding:0 30px;">
-    <p>
-      <ul>
-        <li>Wall 개발 : 관리자를 위한 통합 모니터링 및 알람 기능을 제공하고, 모니터링 결과를 시각적으로 표시하여 효과적으로 인프라 및 가상머신을 관리할 수 있도록 합니다. </li>
-        <li>Works 개발 : 가상 데스크톱 최종 사용자 컴퓨팅 기능을 개발하고, 조직에서 윈도우즈 가상머신 또는 윈도우즈 애플리케이션을 사용할 수 있도록 합니다.</li>
-        <li>Mold/Wall 연동 : 관리자 및 사용자가 실행 중인 가상머신에 대한 실시간 모니터링이 가능하도록 연동합니다.</li>
-        <li>Mold/Works 연동 : 관리자 및 사용자가 필요한 가상 데스크톱 환경을 원클릭으로 배포하고 사용할 수 있도록 연동합니다. </li>
-        <li>API 개발 : Works와 타 시스템과의 연동 및 커스터마이징을 위한 API를 개발하고 제공합니다.  </li>
-      </ul>
-    </p>
+  <div class="medium-12 column" style="padding:0 30px; text-align: center;">
+    <img src="/images/ablestack-works-architecture.png">
   </div>
 </div>
 
-### Cerato(v3.0)-2022.01.31
+#### Mold를 통한 배포 통합
 <br/>
-ABLESTACK의 세번째 버전은 사용자를 위한 **Monitoring as a Service 제공, Mommoss와 Works 융합을 통한 전문가용 DaaS 제공, 애플리케이션 배포 자동화의 지원**을 목표로 2022년 1월 31일까지 진행되고, 릴리즈는 2022년 2월 중에 이루어집니다.  
+모든 Mold 사용자는 자신만의 Works 구성요소를 배포할 수 있습니다. 즉, Mold가 제공하는 클라우드 환경을 통해, 사용자가 속한 도메인별로, 또는 사용자가 생성한 도메인별로 가상 데스크톱 환경을 생성할 수 있습니다. 
 
-프로젝트의 주요 내용은 다음과 같습니다. 
+인프라 관리자는 ABLESTACK Mold를 통해 기업에 단일의 워크스페이스를 만들 수도 있으며, 전문가 커뮤니티 내에 다수의 조직별로 필요한 워크스페이스를 만들어 제공할 수 있기 때문에 높은 유연성을 가진 DaaS 서비스를 제공할 수 있습니다. 
+
+#### 단순화된 구성요소
+<br/>
+가상 데스크톱 및 가상 앱을 조직 또는 사용자에게 제공하기 위해서는 Active Directory 및 DB 서버, 관리자/사용자 포털 등이 제공되어야 합니다. 
+
+Works는 이러한 모든 구성요소가 **Works Proxy** 라는 가상머신에 내장되어 제공됩니다. 따라서 별도의 관리용 Windows 운영체제 라이선스가 필요 없습니다. 또한 해당 프록시 서버가 연결용 게이트웨이 역할도 제공하기 때문에 내부 접속 및 내부 접속을 위한 구조가 매우 단순해 집니다. 
+
+#### 웹 기반 Works 포털
+<br/>
+Works는 웹 기반의 관리자 및 사용자 포털을 제공합니다. 
+
+웹 기반 포털을 통해 관리자는 빠르게 사용자용 가상머신 및 애플리케이션을 배포할 수 있고, 사용자에게 할당할 수 있으며, 정책 및 권한, 공지사항 등을 관리할 수 있습니다. 또한 Works 포털을 기업의 환경에 맞게 커스터마이징 할 수 있어, 기업 내부 시스템과 Look & Feel을 일관성 있게 유지하여 사용자에게 제공할 수 있습니다. 
+
+사용자는 웹 페이지를 통해 별도의 클라이언트 없이 자신만의 업무용 데스크톱에 접속하거나, 사용자에게 할당된 애플리케이션을 실행할 수 있습니다. 
+
+#### 데스크톱/앱 가상화 지원
+<br/>
+Works는 사용자에게 전용으로 할당된 데스크톱을 제공하거나, 관리자에 의해 지정된 특정한 앱만을 제공할 수 있습니다. 
+
+데스크톱은 사용자가 사용할 수 있는 애플리케이션이 미리 설치되어 있고, 사용자가 원하는 애플리케이션을 설치할 수 있는 일반적인 Windows 데스크톱입니다. 
+
+애플리케이션 가상화를 이용하게 되면 사용자에게 데스크톱을 제공하는 대신, 사용자가 업무 중 사용하는 특정 애플리케이션만 사용하도록 제한할 수 있습니다. 예를 들어 전문가용 애플리케이션, 또는 오피스 애플리케이션 만 제한하여 사용할 수 있도록 함으로써 자원을 더 효율적이고 안전하게 사용하도록 할 수 있습니다. 
+<br/><br/>
+
+### Mommoss 전문가용 Works
+<br/>
+ABLESTACK Works는 에이블스토어의 전문가 커뮤니티 플랫폼인 Mommoss와 연계하여, 전문가(세무사, 변리사, 법무사, 변호사 등의 전문가 그룹)에게 필요한 가상 데스크톱 환경 또는 애플리케이션을 제공하도록 통합 개발됩니다. 
 
 <div class="row">
-  <div class="medium-12 column" style="padding:0 30px;">
-    <p>
-      <ul>
-        <li>Wall 기반 MaaS 개발 : Mold를 사용하는 도메인 또는 사용자 별로 배포한 가상머신과 애플리케이션에 대한 모니터링 서비스를 제공할 수 있도록 합니다. </li>
-        <li>전문가용 DaaS 개발 : 전문가 커뮤니티 플랫폼인 Mommoss를 이용해 전문가들이 데이터 보안성이 강화된 Desktop을 서비스 받을 수 있는 DaaS 플랫폼을 개발합니다. </li>
-        <li>Genie 개발 : Kubernetes Cluster(Koral)를 이용해 사용자별로 필요한 애플리케이션을 배포할 수 있는 기능을 개발합니다.</li>
-        <li>Mold/MaaS 연동 : 도메인 및 사용자별로 필요한 모니터링 서비스를 프로비저닝 할 수 있도록 연동합니다.</li>
-        <li>Mold/Genie 연동 : 관리자, 도메인 및 사용자별로 필요한 애플리케이션 자동화 서비스를 프로비저닝 할 수 있도록 연동합니다.</li>
-        <li>API 개발 : MaaS, DaaS, Genie 관련 API를 개발합니다.</li>
-      </ul>
-    </p>
+  <div class="medium-12 column" style="padding:0 30px; text-align: center;">
+    <img src="/images/ablestack-works-mommoss.png">
   </div>
 </div>
 
-### Diplo(v4.0)-2022.05.31
+전문가 커뮤니티 플랫폼인 Mommoss에 가입한 사용자가 워크스페이스 서비스에 가입하면 해당 사용자를 위한 도메인이 생성되고, 워크스페이스가 만들어집니다. 
+
+이러한 워크스페이스를 통해 편의성 및 접근성이 높아지고, 업무용 데스크톱의 유지보수가 간편해 지며, 전문가의 중요한 데이터를 보호할 수 있게 되어 언제 어디서나 안전하고 편리한 업무환경을 사용할 수 있습니다. 
+
 <br/>
-ABLESTACK의 네번째 버전은 Platform as a Service 제공 및 이머징 워크로드 지원을 위한 플랫폼 셋 개발을 목표로 2022년 05월 31일까지 진행되고, 릴리즈는 2022년 6월 중에 이루어집니다. 
-
-프로젝트의 주요 내용은 다음과 같습니다. 
-
-<div class="row">
-  <div class="medium-12 column" style="padding:0 30px;">
-    <p>
-      <ul>
-        <li>Station 개발 : Kubernetes 클러스터에 플랫폼을 배포하고 모니터링할 수 있는 기능을 제공합니다.</li>
-        <li>이머징 워크로드 플랫폼 개발 : IoT와 관련된 빅데이터 인프라, 수집/정제 플랫폼, 시각화 플랫폼 세트를 개발하여 제공합니다.</li>
-        <li>API 개발 : Station 관리 및 플랫폼 관련 API를 개발합니다.  </li>
-      </ul>
-    </p>
-  </div>
+<div class="row" style="text-align: center;">
+  <a class="button center r15 small radius" href="/assets/files/ablestack-works-mommoss.pdf" target="_blank">더 자세한 Mommoss & ABLESTACK Works 자료보기 &gt;</a>
 </div>
-
-
-### 주요 기술인증 계획
-<br/>
-ABLESTACK의 기술력을 인증하고, 공공 시장에서의 경쟁력 확보를 위해 관련 기술인증을 다음과 같이 버전별로 실시합니다. 
-
-#### GS인증
-<br/>
-ABLESTACK을 고객이 신뢰하고 사용할 수 있도록, 국가의 소프트웨어 품질인증 제도를 통해 일정한 수준의 품질을 검증 받아 1등급 인증을 받고, 해당 인증을 기반으로 조달 등록을 추진합니다. ABLESTACK의 GS인증은 1.0 Allo 및 4.0 Diplo 제품에 대해 인증을 실시할 계획입니다. 
-
-<div class="row">
-  <div class="medium-12 column" style="padding:0 30px;">
-    <p>
-      <ul>
-        <li>ABLESTACK 1.0 Allo : 2021년 06월 시험인증 착수, 2021년 10월 인증 완료 예정</li>
-        <li>ABLESTACK 4.0 Diplo : 2022년 06월 시험인증 착수, 2022년 10월 인증 완료 예정</li>
-      </ul>
-    </p>
-  </div>
-</div>
-
-#### 보안적합성 검토/CC인증
-<br/>
-ABLESTACK의 가상화/클라우드 환경을  공공 분야 고객이 보안 관점에서 신뢰하고 사용할 수 있도록, 국가정보원의 보안적합성 검토 제도를 통해 일정한 수준의 보안 품질을 검증 받아 인증을 받습니다. 또한 ABLESTACK의 공공부문 경쟁력 확보를 위해 국제 CC인증을 추진합니다. 보안적합성 검토는 2.0 Bronto, CC인증은 4.0 Diplo에 대해 추진합니다. 
-
-<div class="row">
-  <div class="medium-12 column" style="padding:0 30px;">
-    <p>
-      <ul>
-        <li>ABLESTACK 2.0 Bronto : 2021년 10월 시험인증 착수, 2022년 상반기 인증 완료 예정</li>
-        <li>ABLESTACK 4.0 Diplo : 2022년 10월 시험인증 착수, 2023년 3분기 인증 완료 예정</li>
-      </ul>
-    </p>
-  </div>
-</div>
-
 
 <br/><br/>
 {% include next-previous-post-in-category %}
