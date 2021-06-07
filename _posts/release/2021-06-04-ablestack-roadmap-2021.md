@@ -90,6 +90,7 @@ ABLESTACK의 두번째 버전은 **실시간 모니터링 및 알림 제공, 최
   </div>
 </div>
 
+<br/>
 ### Cerato(v3.0)-2022.01.31
 <br/>
 ABLESTACK의 세번째 버전은 사용자를 위한 **Monitoring as a Service 제공, Mommoss와 Works 융합을 통한 전문가용 DaaS 제공, 애플리케이션 배포 자동화의 지원**을 목표로 2022년 1월 31일까지 진행되고, 릴리즈는 2022년 2월 중에 이루어집니다.  
@@ -111,6 +112,7 @@ ABLESTACK의 세번째 버전은 사용자를 위한 **Monitoring as a Service �
   </div>
 </div>
 
+<br/>
 ### Diplo(v4.0)-2022.05.31
 <br/>
 ABLESTACK의 네번째 버전은 Platform as a Service 제공 및 이머징 워크로드 지원을 위한 플랫폼 셋 개발을 목표로 2022년 05월 31일까지 진행되고, 릴리즈는 2022년 6월 중에 이루어집니다. 
@@ -129,7 +131,7 @@ ABLESTACK의 네번째 버전은 Platform as a Service 제공 및 이머징 워�
   </div>
 </div>
 
-
+<br/>
 ### 주요 기술인증 계획
 <br/>
 ABLESTACK의 기술력을 인증하고, 공공 시장에서의 경쟁력 확보를 위해 관련 기술인증을 다음과 같이 버전별로 실시합니다. 
