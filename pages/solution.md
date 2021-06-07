@@ -209,7 +209,7 @@ header:
       &nbsp;
    </div>
    <div class="small-8 columns" style="text-align: center;">
-      <img src="https://via.placeholder.com/666x375">
+      <img src="/images/solution-ai-main.png">
    </div>
    <div class="small-2 columns" style="text-align: center;">
       &nbsp;
@@ -372,16 +372,16 @@ header:
    <div class="medium-4 columns" style="text-align: center;">
       <p style="font-size: 15px; padding: 10px 0"><b>단일 플랫폼 관리</b></p>
       <p style="font-size: 14px; padding: 0 30px">지점, 엣지별로 구성된 ABLESTACK 인프라를 단일 플랫폼으로 관리할 수 있기 때문에 관리 복잡성을 제거하고, 지점별 전문가를 절감할 수 있습니다.</p>
-      <img src="https://via.placeholder.com/300x180">
+      <img src="/images/solution-edge-computing-single.png">
    </div>
    <div class="medium-4 columns" style="text-align: center;">
       <p style="font-size: 15px; padding: 10px 0"><b>유연한 확장성</b></p>
       <p style="font-size: 14px; padding: 0 30px">쉽게 확장 가능한 인프라를 활용하여 모든 기능을 갖춘 프라이빗 클라우드를 통해 원격에 있는 지점 및 엣지 인프라와 앱을 실행할 수 있습니다.</p>
-      <img src="https://via.placeholder.com/300x180">
+      <img src="/images/solution-edge-computing-flexible.png">
    </div>
    <div class="medium-4 columns" style="text-align: center;">
       <p style="font-size: 15px; padding: 10px 0"><b>어디서나 가능한 관리</b></p>
       <p style="font-size: 14px; padding: 0 30px">데이터 보호 및 자동화 된 장애 조치, 네트워크 보안 및 재해 복구 등을 통해 관리자의 장소에 관계없이 안전하게 인프라를 관리할 수 있습니다.</p>
-      <img src="https://via.placeholder.com/300x180">
+      <img src="/images/solution-edge-computing-anywhere.png">
    </div>
 </div>
