@@ -128,7 +128,7 @@ ABLESTACK은 단지, 상용 x86 서버에 **ABLESTACK Cube OS**를 설치하여 
       </p>
    </div>
    <div class="small-5 columns">
-      <img src="/images/cell">
+      <img src="/images/cell-main.png">
    </div>
 </div>
 
