@@ -1,66 +1,49 @@
-## You like and use this theme? Then support me. Just [paypal.me/PhlowMedia](https://www.paypal.me/PhlowMedia) :)
+## ablecloud.io 홈페이지 리파지터리
 
-# Newsletter: Stay in Touch for Future Updates
+ABLECLOUD 홈페이지 소스코드를 위한 리파지터리입니다.
+홈페이지는 github.io를 통해 관리되며 Jekyll 블로그 앱 및 테마를 이용해 홈페이지 테마를 적용합니다.
+따라서 개발환경을 구성하기 위해서는 소스코드 클론 뿐 아니라, Jekyll을 구성해야 합니다. 
 
-If you are a webdesigner interested in Jekyll, the static website generator, this little newsletter is for you. I share tutorials, clever code snippets and information about my own Jekyll Themes called [*Feeling Responsive*][7] and [*Simplicity*][8]. Please don't expect weekly emails :)
+### 개발환경 구성
 
-[![Subscribe to Jekyll Newsletter](https://phlow.github.io/static/tinyletter_subscribe_button.png)](https://tinyletter.com/feeling-responsive)
+다음과 같이 개발환경을 구성합니다. 
 
+1. CentOS 8 서버 또는 가상머신을 준비합니다. 
+2. Development Tools 패키지 그룹을 설치합니다. 
+   ```
+   $ dnf groupinstall "Development Tools"
+   ```
+3. Ruby 및 Ruby Devel을 설치합니다. 
+   ```
+   $ dnf install ruby ruby-devel
+   ```
+4. RubyGems를 이용해 bundler를 설치합니다.
+   ```
+   $ gem install bundler
+   ```
+   
+### 리파지터리 클론
 
-[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-1280x720.jpg)](https://www.youtube.com/embed/3b5zCFSmVvU)
+개발환경을 구성한 후 홈페이지 리파지터리의 소스를 Folk 한 후 Clone 합니다. 
 
-## A Responsive Jekyll Theme: *Feeling Responsive*
+> 소스코드 리파지터리를 개인이 개발할 때는 반드시 개인 계정으로 Folk 한 후 Folk한 소스를 사용합니다. 수정된 소스를 원본 소스에 반영하고자 하는 경우 Pull Request를 통해 Pull을 요청하고 관리자의 승인을 통해 소스코드가 반영되도록 해야 합니다.
 
-Do you want to get to know *Feeling Responsive*? Than check it out first and have a look on its home at  <http://phlow.github.io/feeling-responsive/>.
+소스 디렉토리로 이동해서 다음의 파일을 삭제합니다. 그 
 
-To get to know *Feeling Responsive* check out all the features explained in the [documentation][1].
+### 개발 서버 실행
 
-And what license is *Feeling Responsive* released under? [This one][2].
+소스코드를 클론한 후 변경된 소스코드를 확인하기 위해서는 개발서버에 Jekyll 테마를 위한 번들을 설치해야 합니다. 번들 설치 및 개발 서버 실행은 모두 소스코드가 클론 된 디렉토리에서 해야 합니다. 
 
+```
+$ cd <repo_dir>
+$ bundle install
+```
 
-
-## Why use this theme?
-
-Feeling Responsive is heavily customizable.
-
-1. Language-Support :)
-2. Optimized for speed and it's responsive.
-3. Built on Foundation Framework.
-4. Six different Headers.
-5. Customizable navigation, footer,...
-
-**[More ›][3]**
-
-
-
-## Changelog
-
-*Feeling Responsive* is in active development. Thank you to everyone who contributed, especially [Róbert Papp][5], [Alexandra von Criegern](https://github.com/plutonik-a) and [Juan Jose Amor Iglesias](https://github.com/jjamor).
-
-**[Read Changelog ›][6]**
-
-
-
-## Video Tutorial
-
-Click the image to [watch the YouTube-Video-Tutorial][4].
-
-[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-tutorial-frontpage.jpg)](https://www.youtube.com/watch?v=rLS-BEvlEyY)
+필요한 번들을 설치한 후 테스트용 Jekyll 웹 서버를 구동합니다.
 
 
+```
+$ bundle exec jekyll serve -H <IP Addr> -P <port>
+```
 
-
-
-
-
-
- [1]: http://phlow.github.io/feeling-responsive/documentation/
- [2]: https://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
- [3]: http://phlow.github.io/feeling-responsive/info/
- [4]: https://www.youtube.com/watch?v=rLS-BEvlEyY
- [5]: https://github.com/TWiStErRob
- [6]: https://phlow.github.io/feeling-responsive/changelog/
- [7]: http://phlow.github.io/feeling-responsive/
- [8]: http://phlow.github.io/simplicity/
- [9]: #
- [10]: #
+웹 브라우저를 이용해 접속하여 정상 여부를 확인합니다. 
