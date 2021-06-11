@@ -33,7 +33,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: #
+  url: /contact_mail/
   text: 보다 더 자세한 자료와 컨설팅이 필요하십니까? ›
   style: alert
 permalink: /index.html

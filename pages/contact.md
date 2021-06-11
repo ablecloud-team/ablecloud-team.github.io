@@ -27,8 +27,8 @@ permalink: "/contact/"
       </p>
       <p>
          <br/>
-         <a class="button left r15 tiny radius" href="#">기술지원 요청하기</a>
-         <a class="button left r15 tiny radius" href="#">도큐먼트센터 가기</a>
+         <a class="button left r15 tiny radius" href="/contact_mail/">기술지원 요청하기</a>
+         <a class="button left r15 tiny radius" href="https://docs.ablecloud.io" target="_blank">도큐먼트센터 가기</a>
       </p>
    </div>
 </div>
