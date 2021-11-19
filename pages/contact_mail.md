@@ -10,7 +10,7 @@ permalink: "/contact_mail/"
 
 
 <form name="sentMessage" id="contactForm" novalidate action="https://formspree.io/f/mzbygdrk" method="post">
-    <input type="hidden" name="_subject" value="블로그에서 새로운 연락이 왔습니다." />
+    <input type="hidden" name="_subject" value="새로운 기술지원 요청이 있습니다." />
     <input type="text" name="_gotcha" style="display:none" />
     <div class="control-group">
         <div class="form-group floating-label-form-group controls">
