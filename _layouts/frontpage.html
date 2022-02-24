@@ -30,7 +30,7 @@ format: frontpage
 
 <div class="row t60">
     <div class="medium-7 columns">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/6xLcY16LpgM?controls=0&loop=1&playlist=6xLcY16LpgM&autoplay=1&&modestbranding=1&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/6xLcY16LpgM?controls=0&loop=1&playlist=6xLcY16LpgM&autoplay=1&&modestbranding=1&rel=0" title="ABLECLOUD Platform" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <div class="medium-5 columns">
         <p>
@@ -97,10 +97,11 @@ format: frontpage
     <div class="row">
         <div class="medium-6 columns">
             {% for post in site.posts limit:1 %}
-            {% if post.subheadline %}<p class="subheadline">{{ post.subheadline }}</p>{% endif %}
-            <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+            {% if post.subheadline %}<p><strong>{{ post.subheadline }}</strong></p>{% endif %}
+            <h3><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+            <br/>
             <p>
-                {% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% else post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
+                {% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% else post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}<br/><br/>
                 <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a>
             </p>
             {% endfor %}
@@ -109,7 +110,7 @@ format: frontpage
 
         <div class="medium-6 columns">
             <p><strong>{{ site.data.language.more_articles }}</strong></p>
-            {% include list-posts entries='4' offset='1' %}
+            {% include list-posts entries='5' offset='1' %}
         </div><!-- /.medium-7.columns -->
     </div><!-- /.row -->
 {% endunless %}
