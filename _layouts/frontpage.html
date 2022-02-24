@@ -9,7 +9,6 @@ format: frontpage
     </div><!-- /.row -->
 </div><!-- /#header-home -->
 
-
 {% comment %}
 *
 * First check, if widget is empty or not by checking if there is a title
@@ -29,7 +28,26 @@ format: frontpage
 	{% endif %}
 </div><!-- /.row -->
 
-
+<div class="row t60">
+    <div class="medium-7 columns">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/6xLcY16LpgM?controls=0&loop=1&playlist=6xLcY16LpgM&autoplay=1&&modestbranding=1&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="medium-5 columns">
+        <p>
+            <h4>기술 독립의 꿈, <br/>에이블 클라우드가 비행을 시작합니다.</h4>
+            <br/>
+            100년전 국가의 독립을 꿈꾸며 창공을 날던 <br/>
+            안창남 비행사처럼,<br/>
+            <br/>
+            대한민국 HCI 시장의 기술 독립과 발전을 위해서<br/>
+            에이블클라우드는 에이블스택을 개발했습니다. <br/>
+            <br/>
+            외산 플랫폼 위주인 HCI 시장에 새로운 국산 제조사로써<br/>
+            우수한 기술력으로 국내 뿐 아니라 세계 시장에<br/>
+            대한민국 HCI의 프론티어가 되겠습니다.
+        </p>
+    </div>
+</div>
 
 {% comment %}
 *
@@ -48,8 +66,6 @@ format: frontpage
         </div><!-- /.small-12.columns -->
     </div><!-- /.row -->
 {% endif %}
-
-
 
 {% comment %}
 *
@@ -78,7 +94,6 @@ format: frontpage
         </div><!-- /.small-12.columns -->
     </div><!-- /.row -->
 
-
     <div class="row">
         <div class="medium-6 columns">
             {% for post in site.posts limit:1 %}
@@ -98,7 +113,6 @@ format: frontpage
         </div><!-- /.medium-7.columns -->
     </div><!-- /.row -->
 {% endunless %}
-
 
 {% comment %}
 *
