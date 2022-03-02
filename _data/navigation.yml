@@ -10,7 +10,7 @@
   url: "/ablestack/"
   side: left
   dropdown:
-  - title: "<u>핵심 인프라</u>"
+  - title: "<u>클라우드 인프라</u>"
     url: "/ablestack/#core-infra"
   - title: "&nbsp;&nbsp;&nbsp;&nbsp;Glue - 분산스토리지"
     url: "/ablestack/#glue"
@@ -20,7 +20,7 @@
     url: "/ablestack/#mold"
   - title: "&nbsp;&nbsp;&nbsp;&nbsp;Koral - 쿠버네테스 클러스터"
     url: "/ablestack/#koral"
-  - title: "<u>IT운영 및 DevOps</u>"
+  - title: "<u>클라우드 관리</u>"
     url: "/ablestack/#it-ops"
   - title: "&nbsp;&nbsp;&nbsp;&nbsp;Wall - 인프라 및 App 모니터링"
     url: "/ablestack/#wall"
@@ -28,7 +28,7 @@
     url: "/ablestack/#genie"
   - title: "&nbsp;&nbsp;&nbsp;&nbsp;Station - Platform as a Service"
     url: "/ablestack/#station"
-  - title: "<u>스토리지 및 데이터베이스</u>"
+  - title: "<u>클라우드 스토리지</u>"
     url: "/ablestack/#storage"
   - title: "&nbsp;&nbsp;&nbsp;&nbsp;Volume - 블록 스토리지"
     url: "/ablestack/#volume"
@@ -36,7 +36,7 @@
     url: "/ablestack/#file"
   - title: "&nbsp;&nbsp;&nbsp;&nbsp;Objects - 오브젝트 스토리지"
     url: "/ablestack/#object"
-  - title: "<u>네트워크 및 보안</u>"
+  - title: "<u>클라우드 네트워크/보안</u>"
     url: "/ablestack/#network"
   - title: "&nbsp;&nbsp;&nbsp;&nbsp;Track - 오버레이 가상 네트워킹"
     url: "/ablestack/#track"
@@ -66,6 +66,9 @@
     url: "/solution/#dev"
   - title: "엣지컴퓨팅"
     url: "/solution/#edge"
+- title: "하드웨어 플랫폼"
+  url: "/hw-platform/"
+  side: left
 - title: 파트너
   url: "/partner/"
   side: left

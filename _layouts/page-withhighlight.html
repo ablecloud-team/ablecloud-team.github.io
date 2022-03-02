@@ -1,0 +1,83 @@
+---
+layout: default
+format: page-withhighlight
+---
+{% if page.image.title %}
+<div class="row t30">
+	<div class="small-12 columns">
+		<img src="{{ site.urlimg }}{{ page.image.title }}" width="970" alt="{{ page.title | escape_once }}">
+		{% if page.image.caption_url and page.image.caption %}
+		<p class="text-right caption">
+			<a href="{{ page.image.caption_url }}">{{ page.image.caption }}</a>
+		</p>
+		{% endif %}
+	</div><!-- /.small-12.columns -->
+</div><!-- /.row -->
+{% endif %}
+
+
+<!-- 3개의 섹션으로 구분됨 teaser, general-section, highlight-section, content-->
+<!-- teaser section -->
+<div class="row t30">
+	<div class="medium-12 columns">
+		<article>
+			<header>
+				{% if page.subheadline %}<p class="subheadline">{{ page.subheadline }}</p>{% endif %}
+				<h1>{{ page.title }}</h1>
+			</header>
+
+			{% if page.teaser %}
+			<p class="teaser">
+				{{ page.teaser }}
+			</p>
+			{% endif %}
+		</article>
+	</div><!-- /.medium-12.columns -->
+</div><!-- /.row -->
+
+<!-- general section -->
+
+<!-- heighlight section -->
+{% if page.highlight-section %}
+<div style="background: lightslategray">
+	<div class="row t30">
+		<div class="medium-12 columns">
+			<article>
+				<div class="row">
+					<p>
+					   <h3 style="text-align: center;color: white">{{page.highlight-section.title}}</h3>
+					</p>
+					<p style="text-align: center;color: white">
+					   {{page.highlight-section.governing}}
+					</p>
+				 </div>
+				 
+				 <br/>
+				 <div class="row">
+					<div class="small-4 columns">
+					   <img src="/images/{{page.highlight-section.image_section}}">
+					</div>
+					<div class="small-8 columns">
+					   <p style="color: lightgrey;">
+						  {{page.highlight-section.section_content}}
+					   </p>
+					   <p align="right">
+						  <a href="{{page.highlight-section.section_more_url}}" class="button tiny radius {{page.highlight-section.section_more_style}}">{{page.highlight-section.section_more_text}}</a>
+					   </p>
+					</div>
+				 </div>
+			</article>
+		</div><!-- /.medium-12.columns -->
+	</div>
+</div><!-- /.row -->
+{% endif %}
+
+
+<!-- content section -->
+<div class="row t30">
+	<div class="medium-12 columns">
+		<article>
+			{{ content }}
+		</article>
+	</div><!-- /.medium-12.columns -->
+</div><!-- /.row -->

@@ -1,16 +1,16 @@
-- menu_name: "Related"
+- menu_name: "관련사이트"
 
-- name: "대표 홈페이지"
-  url: "https://ablecloud-team.github.io/"
+- name: "ABLESTACK 데모"
+  url: "https://mold.ablecloud.io/"
   class: "network-entypo"
-  title: "에이블클라우드 대표홈페이지"
+  title: "ABLESTACK 데모사이트"
 
 - name: "에이블스토어"
   url: "https://www.ablestor.com"
   class: "services-newsletter"
   title: "영업기술지원 총판파트너"
 
-- name: "Mommoss"
+- name: "협업도구 맘모스"
   url: "https://moss.works"
   class: "rss-link"
   title: "전문가 커뮤니티 플랫폼"
