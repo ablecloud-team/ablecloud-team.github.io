@@ -6,7 +6,7 @@ teaser: "<br/>ABLESTACK은 소프트웨어 HCI 플랫폼으로, 고객사에 성
 
 highlight-section:
    title: "ABLESTACK 어플라이언스"
-   governing: "ABLESTACK 어플라이언스는 하드웨어 플랫폼에 소프트웨어가 설치된 상태로 출고되는 턴키 어플라이언스 모델로<br/> 국산 서버 제조사와의 협력을 통해 우수한 클라우드 환경을 제공합니다."
+   governing: "<br/>ABLESTACK 어플라이언스는 하드웨어 플랫폼에 소프트웨어가 설치된 상태로 출고되는 턴키 어플라이언스 모델로<br/> 국산 서버 제조사와의 협력을 통해 우수한 클라우드 환경을 제공합니다."
    image_section: "ablestack-hw-platform-img.png"
    image_caption: "AX3800-U7"
    section_content: "ABLECLOUD는 국내 최고의 서버 제조업체인 유니와이드와 손잡고,<br/> ABLESTACK 어플라이언스를 통해 SDDC 구축, 프라이빗, 멀티 클라우드 환경을 구축하고<br/> 지원할 수 있는 국내 최고의 클라우드 구축 옵션을 제공합니다.<br><br>ABLESTACK 어플라이언스를 기반으로 엔터프라이즈 클라우드를 빠르게 구성하십시오."
@@ -27,7 +27,7 @@ permalink: "/hw-platform/"
       <p>
          <h3>서드파티 어플라이언스</h3>
       </p>
-      <br/>
+      <br/><br/>
       <p>
          ABLESTACK은 고객의 하드웨어 선택의 자유를 보장하고<br/> 빠르게 엔터프라이즈 클라우드를 구성하기 위해<br/> 소프트웨어 플랫폼으로 제공되며,<br/> Lenovo, SuperMicro, DELL 등의 다양한<br/>전문 러기드 x86 플랫폼에서 실행될 수 있습니다.<br/>
          <br/>
