@@ -2,7 +2,7 @@
 layout: page-withhighlight
 show_meta: false
 title: "ABLESTACK 하드웨어 플랫폼"
-teaser: "<br/>ABLESTACK은 소프트웨어 HCI 플랫폼으로, 고객사에 성공적으로 HCI 기반 클라우드 환경을 구성하기 위해서는<br/> ABLESTACK이 설치되어 실행되는 서버 하드웨어가 필요합니다. ABLESTACK은 자사 어플라이언스와 함께<br? 다양한 OEM 파트너, 서드파티 서버 공급업체의 서버 플랫폼과 호환됩니다."
+teaser: "<br/>ABLESTACK은 소프트웨어 HCI 플랫폼으로, 고객사에 성공적으로 HCI 기반 클라우드 환경을 구성하기 위해서는<br/> ABLESTACK이 설치되어 실행되는 서버 하드웨어가 필요합니다. ABLESTACK은 자사 어플라이언스와 함께<br/> 다양한 OEM 파트너, 서드파티 서버 공급업체의 서버 플랫폼과 호환됩니다."
 
 highlight-section:
    title: "ABLESTACK 어플라이언스"
