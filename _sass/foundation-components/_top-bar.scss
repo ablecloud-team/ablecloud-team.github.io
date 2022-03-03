@@ -414,9 +414,7 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
 
           a {
             font-weight: $topbar-dropdown-link-weight;
-            padding: 2px $topbar-link-padding;
-            margin-bottom: -5px;
-            margin-top: -5px;
+            padding: 8px $topbar-link-padding;
             &.parent-link {
               font-weight: $topbar-link-weight;
             }
@@ -566,7 +564,7 @@ $topbar-dropdown-arrows: true !default; //Set false to remove the \00bb >> text 
               @if ($topbar-dropdown-arrows){
                 &:after {
                   border: none;
-                  content: "\00bb";
+                  content: "▸";
                   top: 1rem;
                   margin-top: -1px;
                   #{$opposite-direction}: 5px;
