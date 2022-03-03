@@ -39,15 +39,15 @@ format: page-withhighlight
 
 <!-- heighlight section -->
 {% if page.highlight-section %}
-<div style="background: lightslategray">
+<div style="background: #eee">
 	<div class="row t30">
 		<div class="medium-12 columns">
 			<article>
 				<div class="row">
 					<p>
-					   <h3 style="text-align: center;color: white">{{page.highlight-section.title}}</h3>
+					   <h3 style="text-align: center;color: black">{{page.highlight-section.title}}</h3>
 					</p>
-					<p style="text-align: center;color: white">
+					<p style="text-align: center;color: black">
 					   {{page.highlight-section.governing}}
 					</p>
 				 </div>
@@ -56,13 +56,16 @@ format: page-withhighlight
 				 <div class="row">
 					<div class="small-4 columns">
 					   <img src="/images/{{page.highlight-section.image_section}}">
+					   <br/><br/>
+					   <p style="text-align: center;">{{page.highlight-section.image_caption}}</p>
 					</div>
 					<div class="small-8 columns">
-					   <p style="color: lightgrey;">
+					   <p style="color: black;">
 						  {{page.highlight-section.section_content}}
 					   </p>
-					   <p align="right">
-						  <a href="{{page.highlight-section.section_more_url}}" class="button tiny radius {{page.highlight-section.section_more_style}}">{{page.highlight-section.section_more_text}}</a>
+					   <br/>
+					   <p>
+						  <a href="{{page.highlight-section.section_more_url}}" class="button tiny radius {{page.highlight-section.section_more_style}}" style="background-color: #181818">{{page.highlight-section.section_more_text}}</a>
 					   </p>
 					</div>
 				 </div>

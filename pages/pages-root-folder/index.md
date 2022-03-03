@@ -7,7 +7,7 @@
 layout: frontpage
 header:
   title: ''
-  image_fullwidth: 2021-11-18-15-33-27-main-page-title.png
+  image_fullwidth: header_main_page_20220303.png
 widget1:
   title: "제품"
   url: 'https://www.ablecloud.io/ablestack/'
