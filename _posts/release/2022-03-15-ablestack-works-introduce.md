@@ -16,11 +16,11 @@ tags:
 
 header:
    title: ''
-   image_fullwidth: 2021-11-18-15-33-27-gs-certificate-title.png
+   image_fullwidth: 2022-03-18-title_bronto-works-release.png
 
 image:
-   thumb: 2021-11-18-15-33-27-gs-certificate-thumb.png
-   homepage: 2021-11-18-15-33-27-gs-certificate-title.png
+   thumb: 2022-03-18-works-thumbnail.png
+   homepage: 2022-03-18-title_bronto-works-release.png
 ---
 
 <div class="row">
@@ -41,7 +41,7 @@ image:
 <br/>
   <div class="row">
     <div class="small-5 columns">
-        <img src="https://via.placeholder.com/270x180/6b6351/e1dcd7?text=DaaS+Image">
+        <img src="/images/2022-03-18-daas-image.png">
     </div>
     <div class="small-7 columns">
         <p>
