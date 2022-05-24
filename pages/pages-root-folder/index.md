@@ -7,7 +7,7 @@
 layout: frontpage
 header:
   title: ''
-  image_fullwidth: header_main_page_20220303.png
+  image_fullwidth: 2022-05-24-title_ablestack-g2b-certified.png
 widget1:
   title: "제품"
   url: 'https://www.ablecloud.io/ablestack/'
