@@ -77,6 +77,10 @@
 - title: 파트너
   url: "/partner/"
   side: left
+- title: "지원문의"
+  url: "/contact/"
+  side: left
+
 
 - title: 블로그
   url: "/blog/"
@@ -84,7 +88,3 @@
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
-
-- title: "지원문의"
-  url: "/contact/"
-  side: right
