@@ -2,7 +2,7 @@
 layout: page-fullwidth
 show_meta: false
 
-title: "지원 문의"
+title: "기술지뭔 및 데모요청"
 
 teaser: "<br/>ABLESTACK 전체 제품에 대한 기술지원 및 데모지원 서비스를 제공합니다. 다음의 양식에 기술지원 요청 내용을 작성하신 후 이메일을 보내면 담당자 확인 후 회신하여 드립니다. "
 permalink: "/contact_mail/"
