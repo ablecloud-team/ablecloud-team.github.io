@@ -2,15 +2,15 @@
   url: "/"
   side: left
 
-- title: ABLECLOUD가 하는 일
+- title: 회사소개
   url: "/our-mission/"
   side: left
 
-- title: "ABLESTACK"
+- title: "제품"
   url: "/ablestack/"
   side: left
   dropdown:
-  - title: "클라우드 인프라"
+  - title: "ABLESTACK HCI"
     url: "/ablestack/#core-infra"
     subitem:
     - title: "&nbsp;&nbsp;&nbsp;&nbsp;Glue - 분산스토리지"
@@ -21,7 +21,7 @@
       url: "/ablestack/#mold"
     - title: "&nbsp;&nbsp;&nbsp;&nbsp;Koral - 쿠버네테스 클러스터"
       url: "/ablestack/#koral"
-  - title: "클라우드 관리"
+  - title: "Management"
     url: "/ablestack/#it-ops"
     subitem:
     - title: "&nbsp;&nbsp;&nbsp;&nbsp;Wall - 인프라 및 App 모니터링"
@@ -30,7 +30,7 @@
       url: "/ablestack/#genie"
     - title: "&nbsp;&nbsp;&nbsp;&nbsp;Station - Platform as a Service"
       url: "/ablestack/#station"
-  - title: "클라우드 스토리지"
+  - title: "Storage"
     url: "/ablestack/#storage"
     subitem:
     - title: "&nbsp;&nbsp;&nbsp;&nbsp;Volume - 블록 스토리지"
@@ -39,14 +39,14 @@
       url: "/ablestack/#file"
     - title: "&nbsp;&nbsp;&nbsp;&nbsp;Objects - 오브젝트 스토리지"
       url: "/ablestack/#object"
-  - title: "클라우드 네트워크/보안"
+  - title: "Network Security"
     url: "/ablestack/#network"
     subitem:
     - title: "&nbsp;&nbsp;&nbsp;&nbsp;Track - 오버레이 가상 네트워킹"
       url: "/ablestack/#track"
     - title: "&nbsp;&nbsp;&nbsp;&nbsp;Atom - 마이크로 세그멘테이션"
       url: "/ablestack/#atom"
-  - title: "엔드유저 서비스"
+  - title: "End User Service"
     url: "/ablestack/#enduser"
     subitem:
     - title: "&nbsp;&nbsp;&nbsp;&nbsp;Works - Desktop as a Service"
@@ -78,13 +78,13 @@
   url: "/partner/"
   side: left
 
-- title: Blog
+- title: 블로그
   url: "/blog/"
   side: right
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: "지원 및 서비스"
+- title: "지원문의"
   url: "/contact/"
   side: right
