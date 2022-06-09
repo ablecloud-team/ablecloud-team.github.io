@@ -3,8 +3,13 @@
   side: left
 
 - title: 회사소개
-  url: "/our-mission/"
+  url: "/info/"
   side: left
+  dropdown:
+  - title: "에이블클라우드"
+    url: "/info/"
+  - title: "우리가 하는 일"
+    url: "/our-mission/"
 
 - title: "제품"
   url: "/ablestack/"

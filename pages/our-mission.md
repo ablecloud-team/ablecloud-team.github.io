@@ -1,7 +1,8 @@
 ---
 layout: page-fullwidth
 show_meta: false
-title: "회사 소개"
+title: "SDDC를 실현하는 플랫폼 - ABLESTACK 개발"
+subheadline: "소프트웨어 정의 데이터센터를 선도하는 클라우드 전문가 기업..."
 teaser: "<br/>우리는 소프트웨어 정의 기술과 오픈소스 기술을 집약하여 만든 하이퍼 컨버지드 플랫폼인 ABLESTACK을 중심으로 기업이 자유롭게 인프라를 선택하고, 쉽고 빠르게 데이터센터를 구축하며 직접 관리하고, 빠르게 애플리케이션을 배포하고 사용할 수 있는 유연한 클라우드 플랫폼을 제공하기 위해 우리의 정열을 쏟습니다."
 header:
    title: ""
@@ -11,12 +12,7 @@ permalink: "/our-mission/"
 ---
 
 <br/>
-<div class="row">
-   <p>
-      <h3>소프트웨어로 정의된 단일 플랫폼 - ABLESTACK</h3>
-   </p>
-</div>
-
+### 소프트웨어로 정의된 단일 플랫폼 - ABLESTACK
 <br/>
 <div class="row">
    <div class="small-4 columns">
@@ -32,12 +28,7 @@ permalink: "/our-mission/"
 </div>
 
 <br/>
-<div class="row">
-   <p>
-      <h3>새로운 개념의 데이터센터</h3>
-   </p>
-</div>
-
+### 새로운 개념의 데이터센터
 <br/>
 <div class="row">
    <div class="small-8 columns">

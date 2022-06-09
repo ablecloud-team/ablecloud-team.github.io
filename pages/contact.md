@@ -35,38 +35,7 @@ permalink: "/contact/"
 
 <br/><br/>
 * * *
-
-## Contact Us
-
-<br/>
-
-### 본사 (서울)
-
-<br/>
-<div class="row" style="padding: 0 15px">
-   <p>
-     서울특별시 영등포구 영신로 220 KnK디지털타워 1808호
-   </p>
-</div>
-
-<div class="row" style="padding: 0 15px">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3164.2096916923224!2d126.90211031572574!3d37.52655397980536!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c9ee718caa21b%3A0xdfc527ea21868c62!2za25r65SU7KeA7YS47YOA7JuM!5e0!3m2!1sko!2skr!4v1622532634559!5m2!1sko!2skr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-</div>
-
-### 연구소 (대전)
-
-<br/>
-<div class="row" style="padding: 0 15px">
-   <p>
-     대전광역시 대덕구 대화동 대전로 106번길 66, 펜타플렉스 811호
-   </p>
-</div>
-
-<div class="row" style="padding: 0 15px">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2315.4009584889704!2d127.40639565224926!3d36.36934814829425!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x356549a333e5ddc7%3A0xe9799a1f8acbccbd!2z64yA7KCEIO2OnO2DgO2UjOugieyKpA!5e0!3m2!1sko!2skr!4v1622533087470!5m2!1sko!2skr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-</div>
-
-### 영업/기술지원 이메일
+## 영업/기술지원 이메일
 
 <br/>
 <div class="row" style="padding: 0 15px">
