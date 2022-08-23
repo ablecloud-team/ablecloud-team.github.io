@@ -7,7 +7,9 @@
 layout: frontpage
 header:
   title: ''
-  image_fullwidth: 2022-05-24-title_ablestack-g2b-certified.png
+  image_fullwidth: 2022-08-23-title.png
+  caption: '행사 자세히 알아보기'
+  caption_url: 'https://www.ablestor.com/_app/view/landing/roadshow.php'
 widget1:
   title: "제품"
   url: 'https://www.ablecloud.io/ablestack/'
