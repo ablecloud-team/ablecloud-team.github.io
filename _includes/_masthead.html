@@ -63,8 +63,8 @@
 {% endif %}
 
 {% if page.header.caption_url && page.header.caption %}
-<div class="masthead-caption" style="background: lightgray">
-	<span style="text-align: center"><a href="{{ page.header.caption_url }}">{{ page.header.caption }}</a></span>
+<div class="masthead-caption">
+	<a href="{{ page.header.caption_url }}">{{ page.header.caption }}</a>
 </div>
 {% elsif page.header.caption %}
 <div class="masthead-caption">
