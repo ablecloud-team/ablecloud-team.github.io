@@ -7,7 +7,7 @@
 layout: frontpage
 header:
   title: ''
-  image_fullwidth: 2022-08-23-title.png
+  image_fullwidth: 2022-08-23-title-ablecloud.png
   caption: '행사 자세히 알아보기'
   caption_url: 'https://www.ablestor.com/_app/view/landing/roadshow.php'
 widget1:
